@@ -1,0 +1,6 @@
+d491d52282d37271d9803d461125f5d6d98ee3926ae2ab9b19449c373d1c25c6  engine/tests/fixtures/gt/sample-budget-law.pdf
+e07588e40dd31d32ced019398de8d1cf2117fee3119a128f3b118adc09eab18e  engine/tests/fixtures/gt/sample-civic-service.pdf
+e4ee12b68d0263f7b07d55bf5b719e335af4ab84f2df39b972b8e216c767c1c0  engine/tests/fixtures/gt/sample-code-codigo-municipal.pdf
+499db915d59dbaa8a5176920722ee4659e4596f19d3d5943fb56d375d75bad4f  engine/tests/fixtures/gt/sample-constitution.pdf
+3e4d1f5d0763b8bf46ba6057a241501496868464b22c96bab2f91cc91e22f529  engine/tests/fixtures/gt/sample-ordinary-law-laip.pdf
+e1c4b48dc8c7c39c2ddcc4e4e9de2c967c132d1d559d2addbc4e832261402db0  engine/tests/fixtures/gt/reform-decree-13-2013.pdf

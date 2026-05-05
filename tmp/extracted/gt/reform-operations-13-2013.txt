@@ -1,0 +1,328 @@
+DECREE_ARTICLE: 1
+HEADER: . ARTÍCULO 1. Se reforma el artículo 1 del ·oecreto Número 101-97 del Congreso
+OPERATION: reforma
+TARGETS: 1
+HAS_REPLACEMENT: True
+PREVIEW: . ARTÍCULO 1. Se reforma el artículo 1 del ·oecreto Número 101-97 del Congreso de la Repúb~ica, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 1. Objeto. La presente Ley tiene por objeto establecer normas para la constitución de. los sistemas presupuestarios, de contabilidad integrada gubernamental, de tesorería y de crédito público, a efecto de: a) Realizar la planificación, programación, organización, coordinación. ejecución, control de la captación y uso de los recurso~ públicos bajo los principios de legalidad, economía, eficiencia, eficacia, calidad, transparencia, equidad y p
+
+DECREE_ARTICLE: 2
+HEADER: ARTÍCULO 2. Se reforman las literales e), d) y se adicionan las literales e}, f), g) Y
+OPERATION: reforma
+TARGETS: 2
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 2. Se reforman las literales e), d) y se adicionan las literales e}, f), g) Y h) del Artículo 2 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: c) "Las empresas cualquiera sea su forma de organización, cuyo capital mayoritariamente esté conformado con aportaciones del Estado, en lo relativo a los tondos públicos; d) Los Organismos Regionales e Internacionales en Jos programas o proyectos que reciban, administren o ejecuten fondos públicos; e) Las Organizaciones No Gubernamentales y Asociaciones sin fines de lucro que reciban, ad
+
+DECREE_ARTICLE: 3
+HEADER: ARTÍCULO 3. Se reforma el segundo párrafo del artículo 3 del Decreto Número
+OPERATION: reforma
+TARGETS: 3
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 3. Se reforma el segundo párrafo del artículo 3 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Las unidades de administración financiera en cada uno de los organismos y entes del sector público, serán corresponsables con la máxima autoridad de velar por el cumplimiento de las políticas, normas y lineamientos que, en materia financiera, establezcan las autoridades competentes en el marco de esta L.er~ /
+
+DECREE_ARTICLE: 4
+HEADER: ARTÍCULO 4. Se reforma el artículo 4 del Decreto Número 101-97 del Congreso
+OPERATION: reforma
+TARGETS: 4
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 4. Se reforma el artículo 4 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 4. Rendición de Cuentas. Todos los entes contemplados en el artículo 2 de la presente Ley, que manejen. administren o ejecuten recursos, valores públicos o bienes del Estado, así como los que realicen funciones de dirección superior, deberán elaborar anualmente un informe de rendición de cuentas del ejercicio fiscal anterior, que como mínimo contenga: 1) Presupuesto solicitado, asignado, modificado y ejecutado con detalle por renglón de gasto, 
+
+DECREE_ARTICLE: 5
+HEADER: · ARTÍCULO 5. Se adiciona el artículo 7 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 7 Bis
+HAS_REPLACEMENT: True
+PREVIEW: · ARTÍCULO 5. Se adiciona el artículo 7 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 7 Bis. Proceso Presupuestario. Se entenderá por proceso presupuestario, el conjunto de etapas lógicamente concatenadas tendientes a establecer principios, normas y procedimientos que regirán las etapas de: planificación, formulación, .presentación, aprobación, ejecución, seguimiento, Congreso de la República de Guatemala, Departamento de Información Legislativa. NÚMER029 DIARIO de CENTRO AMÉRICA Guatemala, MARTES 12 de noviembre 2013 3 ev
+
+DECREE_ARTICLE: 6
+HEADER: ARTÍCULO 6. Se reforma el segundo párrafo y se adiciona un tercer párrafo al
+OPERATION: reforma
+TARGETS: 8
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 6. Se reforma el segundo párrafo y se adiciona un tercer párrafo al artículo 8 Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "El Organismo Ejecutivo, por conducto del Ministerio de ·Finanzas Públicas, consolidará los presupuestos institucionales y elaborará el presupuesto anual, multianual y las cuentas agregadas del sector público, éstos deberán estar en concordancia con los indicadores de desempeño, impacto, calidad del gasto y los planes operativos anuales entregados por las instituciones públicas a la Secretaria de Planificaci
+
+DECREE_ARTICLE: 7
+HEADER: ARTÍCULO 7. Se reforma el artículo 12 def Decreto Número 101·97 del Congreso
+OPERATION: reforma
+TARGETS: 12
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 7. Se reforma el artículo 12 def Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 12. Presupuestos de Egresos. En los presupuestos de egresos se útilizará una estructura programática coherente con las políticas, planes de acción .del Gobierno y planes de desarrollo territorial, de conformidad con lo que desarrolle el reglamento respectivo, este identificará: la prOclucción de bienes y servicios, la gestión por resultados de los organismos y entes del sector público, la incidencia económica. social y financiera de la ejecuci
+
+DECREE_ARTICLE: 8
+HEADER: ARTÍCULO 8. Se adiciona el artículo 17 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 17 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 8. Se adiciona el artículo 17 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánloa del Presupuesto, el cual queda así: qArticulo 17 Bis. Acceso a la Información de la Gestión Presupuestaria por Resultados. Las entidades del sector público, para fines de cons~lidación de cuentas, pondrán a disposición del Ministerio de Finanzas Públicas, por cualquier medio electrónico, la información referente a la ejecución física y financiera registrada en el Sistema de Contabilidad Integrada (SICOIN). . La máxima autoridad de eada entidad pública publicará en su sitio web de acce
+
+DECREE_ARTICLE: 9
+HEADER: ARTÍCULO 9. Se adiciona el artículo 17 Ter al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 17 Ter
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 9. Se adiciona el artículo 17 Ter al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 17 Ter. Informes en Sitios Web y Comisiones de Trabajo del Congreso de Ja República. Los sujetos obligados a las disposiciones de la presente Ley, con el propósito de brindar a la ciudadanía guatemalteca transparencia en la gestión pública, además de cumplir con la entrega de información y documentación con la periOclicídad qúe establece esta ~e,y, deberán mostrar y actualizar por lo menos cada treinta (30) días, a través de sus sitios web
+
+DECREE_ARTICLE: 10
+HEADER: ARTÍCULO 10. Se adiciona el artículo 17 Quáter al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 17 Quáter
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 10. Se adiciona el artículo 17 Quáter al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Articulo 17 Quáter. Ejecución Presupuestaria por Clasificador Temático. El Ministerio de Finanzas Públicas a través de la Dirección Técnica del Presupuesto, debe incluir en el Sistema de Contabilidad Integrada (SICOIN), los clasificadores presupuestarios con enfoque de género, pueblos indígenas, seguridad y justicia, educación, reducción de la desnutrición, recursos hídricos y saneamíento, niñez, • juventud y los demás que establezca el reglame
+
+DECREE_ARTICLE: 11
+HEADER: ARTÍCULO 11. Se adiciOna un segundo párrafo al articulo 25 del Decreto
+OPERATION: adiciona
+TARGETS: 25
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 11. Se adiciOna un segundo párrafo al articulo 25 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "la Administración Tributaria será. responsable del registro de los ingresos tnbutarios en el Sistema de Contabilidad Integrada (SICOIN). así como del cumplimiento de procesos legales y administrativos derivados del mismo y proporcionará la infonnación que requiera el Ministerio."
+
+DECREE_ARTICLE: 12
+HEADER: ARTÍCULO 12. Se reforma el párrafo segundo y se adiciona un tercer párrafo al
+OPERATION: reforma
+TARGETS: 26
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 12. Se reforma el párrafo segundo y se adiciona un tercer párrafo al artículo 26 del Decreto Número· 101-97 del Congreso de la República,_ Ley Orgánica del Presupuesto, el cual queda así: "No se podrán adquirir compromisos ni devengar gastos para los cuales no existan saldos disponibles de créditos presupuestarios, ni disponer de estos créditos para una finalidad distinta a la· prevista. La contravención a esta dísposíeión es punible penalmente, constitutivo de los delitos de abuso de autoridad, incumplimiento de deberes y de los demás delitos que resulte responsable. El Organismo Eje
+
+DECREE_ARTICLE: 13
+HEADER: ARTÍCULO 13. Se adiciona el artículo 26 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 26 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 13. Se adiciona el artículo 26 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 26 Bis. Constancias de Disponibilidad Presupuestaria y Financiera. Previo a adquirir compromisos y suseribir contratos o convenios, prórrog9s, ... ampliaciones, disminuciones, variaciones o modificaciones, las entidades del Estado deben obtener del responsable · de las direcciones financieras institucionales o de las unidades de administración financiera desconcentradas, una constancia de disponibilidad presupuestaria (COP), que garantice
+
+DECREE_ARTICLE: 14
+HEADER: ARTÍCULO 14.· Se reforma el articulo_ 27 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 27
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 14.· Se reforma el articulo_ 27 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 27. Distrib.ución Analitica. Dentro de los quince (15) días de entrada en vigencia de la Ley del Presupuesto General de Ingresos y Egresos del Estado del ejercicio fiscal correspondiente, el Organismo Ejecutivo aprobará mediante acuerdo gubernativo, la distribución analítica del presupuesto, que consiste en la presentación desagregada hasta el último nível previsto en los clasificadores y categorías programáticas utilizados, de los créditos
+
+DECREE_ARTICLE: 15
+HEADER: ARTÍCULO 15. Se adiciona el artículo 29 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 29 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 15. Se adiciona el artículo 29 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda asi: . "Artículo 29 Bis. Responsable$ de la Ejecución · Presupuestaria- Autorizadores de Egresos. Las autoridades superiores de las entidades públicas son responsables de la ejecución presupuestaria , de ingresos y egresos de su entidad. Para el efecto registrarán en el Sistema de Contabilidad Integrada (SICOIN), las transacciones presupuestarias y contables, que tendrán efectos contables de pago y financieros. El archivo y custodia de los comprobantes 
+
+DECREE_ARTICLE: 16
+HEADER: ARTÍCULO 16. Se adiciona un segundo párrafo al artículo 30 del Decreto
+OPERATION: adiciona
+TARGETS: 30
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 16. Se adiciona un segundo párrafo al artículo 30 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: · "Para la fijación de las cuotas de compromiso y devengado únicamente podrán asignarse recursos de inversión y realizar desembolsos a los programas y proyectos registrados y evaluac:IOs en el Sistema Nacional de Inversión Pública (SNIP), conforme al avance físico y financiero de la Obra, el cual debe registrarse ·en fonna mensual en el Sistema Nacional de Inversión Públíca (SNIP) por cada· unidad ejecutora, sin excepción."
+
+DECREE_ARTICLE: 17
+HEADER: ARTÍCULO 17. Se adiciona _el artículo 30 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 30 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 17. Se adiciona _el artículo 30 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 30 Bis. Construcciones· del Estado. Para efectos de ejecución de las obras de irífraestructura que el Estado construya y que incrementen el capital fijo, deberán ejecutarse en inmuebles cuya propiedad o posesión sea del Estado, incluyendo municipios y entidades descentralizadas y autónomas. Bajo ningún caso se podrán realizar construcciones en inmuebles que se encuentren inscritos en los Registros de la Propiedad a nombre de personas ind
+
+DECREE_ARTICLE: 18
+HEADER: ARTÍCULO 18. Se adiciona el artfculo 30 Ter al Decreto Número 101·97 del
+OPERATION: adiciona
+TARGETS: TBD
+HAS_REPLACEMENT: False
+PREVIEW: ARTÍCULO 18. Se adiciona el artfculo 30 Ter al Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda asf: "Artículo 30 Ter. Anticipo de Recursos. En la ejecución de las asignaciones aprobadas en el Presupuesto General de Ingresos y Egresos del Estado, el Ministerio de Finanzas Públicas únicamente podrá anticipar recursos para: a) Devengar y pagar, mediante fondo rotativo de conformidad con lo estipulado . en el artículo 58 de esta Ley; . b) Los fideicomisos constituidos eón fondos públicos, los . organismos regionales e internacionales que ejecuten fon
+
+DECREE_ARTICLE: 19
+HEADER: ARTÍCULO 19. Se adiciona un segundo párrafo al artículo 31 del Decreto
+OPERATION: adiciona
+TARGETS: 31
+HAS_REPLACEMENT: False
+PREVIEW: ARTÍCULO 19. Se adiciona un segundo párrafo al artículo 31 del Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda asf: "Lás instituciones que perciban ingresos propios realizarán los registros correspondientes en el Sistema de Contabilidad Integrada (SICOIN)."
+
+DECREE_ARTICLE: 20
+HEADER: ARTÍCULO 20. Se reforma el eptgrafe y el último párrafo, y se adiciona un
+OPERATION: reforma
+TARGETS: 32
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 20. Se reforma el eptgrafe y el último párrafo, y se adiciona un párrafo al final del artículo 32 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "ARTICULO 32. Modificaciones y Transferencias Presupuestarias. Todas las modificaciones y transferencias deberán ser remitidas a la Dirección Técnica del . Presupuesto del Ministerio de Finanzas Públicas, dentro de los diez (1 O) días siguientes de su aprobación. quien notificará de inmediato al Congreso de la República y a la Contraloría General de Cuentas. Al notificarlas se deberá i
+
+DECREE_ARTICLE: 21
+HEADER: ARTÍCULO 21. Se adiciona el artículo 32 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 32 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 21. Se adiciona el artículo 32 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Articulo 32 Bis. Información de Entidades Receptoras de Transferencias. Los recursos públicos que se trasladen en calidad de aportes af sector privado y al. sector externo. se realizarán bajo responsabilidad de las entidades dJ¡Aa administración central, empresas públicas, entidades autónomas y descentralizadas otorgantes. Dichas entidades deberán registrar en el Sistema de Contabilidad Integrada (SICOIN}. la información siguiente: a) Nombre o raz
+
+DECREE_ARTICLE: 22
+HEADER: ARTÍCULO 22. Se adiciona el artículo 33 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 33 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 22. Se adiciona el artículo 33 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presllpuesto, el cual queda así: "Artículo 33 Bis. Modalidad de Ejecución. Los Ministerios, Secretarías, Fondos Sociales, Fideicomisos, Entidades Descentralizadas y Empresas Públicas, solamente podrán ejecutar sus gastos de funcionamiento y proyectos mediante administración directa o por contrato, de acuerdo al Manual de Clasifícacíones Presupuestarias para el Sector Público de Guatemala y de conformidad· a la normativa para el sector público de Guatemala, indistintamente que sea
+
+DECREE_ARTICLE: 23
+HEADER: ARTÍCULO 23. Se adiciona el artículo 33 Ter al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 33 Ter
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 23. Se adiciona el artículo 33 Ter al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Articulo 33 Ter. Contratación. Las entidades a que se refiere el artículo 2 de la presente ley, deber~n cumplir con los procedimientos establecidos en la Ley de Contrataciones del Estado para la contratación de obras y la adquisición de bienes, servicios e insumos."
+
+DECREE_ARTICLE: 24
+HEADER: ARTÍCULO 24. Se reforma el artículo 38 del Decreto Número 101·97 del
+OPERATION: reforma
+TARGETS: 38
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 24. Se reforma el artículo 38 del Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 38. Saldos de Efectivo. Las Instituciones del Estado a las que se les transfieran los recursos a través del Presupuesto -General de Ingresos y Egresos del Estado, del ejercicio fiscal correspondiente, los Consejos de Desarrollo y las Instituciones Descentralizadas y Autónomas, éstas últimas respecto de los fondos recibidos del Estado, que al treinta y uno (31) de diciembre de cada año . mantengan saldos de efectivo y que no sean saldos por ga
+
+DECREE_ARTICLE: 25
+HEADER: ARTÍCULO 25. Se reforma el artículo 41 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 41
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 25. Se reforma el artículo 41 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: Congreso de la República de Guatemala, Departamento de Información Legislativa. 6 Guatemala, MARTES 12 de noviembre 2013 DIARIO de CENTRO AMÉRICA NÚMER029 "Articulo 41. Modificaciones· y Transferencias Presupuestarias. Las modificaciones y transferencias de los presupuestos de las entidades descentralizadas se realizarán de la siguiente manera: a) Por medio de acuerdo gubernativo cuando se amplíe o disminuya el presupuesto de las citadas entidades, pre
+
+DECREE_ARTICLE: 26
+HEADER: ARTÍCULO 26. Se adiciona un segundo párrafo al artículo 42 del Decreto
+OPERATION: adiciona
+TARGETS: 42
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 26. Se adiciona un segundo párrafo al artículo 42 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica.del Presupuesto, el cual queda así: "Para efectos de consolidación de información presupuestaria y financiera, que permita la liqÚídación presupuestaria que establece el artículo 241 de la Constitución Política de la República de Guatemala, la Universidad de San Carlos de Guatemala, la Escuela Nacional Central de Agricultura. Municipalidades, Instituto de · Fomento Municipal y cualquier otra entidad autónoma con presupuesto propio, remitirán al Ministerio de Finanzas 
+
+DECREE_ARTICLE: 27
+HEADER: ARTÍCULO 27. Se adiciona el artículo 42 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 42 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 27. Se adiciona el artículo 42 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 42 Bis. Uso de los Sistemas SIAF. Todas las entidades del sector público, incluyendo las de Administración Central, Descentralizadas, Autónomas y Empresas Públicas. particularmente las Municipalidades, los Organismos del · Estado, la Universidad de San Carlos de Guatemala, Federaciones y Confederaciones Deportivas, Consejos de Desarrollo, Instituto de Fomento Municipal, Fideicomisos Constituidos con Fondos Públicos, Organismos Regionales 
+
+DECREE_ARTICLE: 28
+HEADER: ARTÍCULO 28. Se adiciona el articulo 45 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 45 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 28. Se adiciona el articulo 45 Bis al Decreto Número 101-97 del Congreso de la RepúbUca, Ley Orgánica del Presupuesto, él cual queda así: "Artículo 45 Bis. Desembolsos a favor de los Consejos Departamentales de Desarrollo. Los recursos asignados en calidad de aporte a los Consejos Departamentales de Desarrollo deberán destinarse para la ejecución de obras Y sus desembolsos deberán responder a los informes de avance físico. Los Consejos Departamentales de Desarrollo en su calidad de administradores de los recursos velarán para que en el convenio de ejecución de obras que se suscriba co
+
+DECREE_ARTICLE: 29
+HEADER: ARTÍCULO 29. Se reforma la literal b), c), y e) del artículo 49 del Decreto Número
+OPERATION: reforma
+TARGETS: 49
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 29. Se reforma la literal b), c), y e) del artículo 49 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "b) Normar el registro sistemático de las transacciones del sector público con efectos presupuestarios. patrimoniales y financieros. en un sistema común, oportuno y confiable, que permita conocer el destino de los egresos y la fuente de ingresos, expresados en términos monetarios; c) Generar información relevante y útii. con base en los datos del Sistema de Contabilidad Integrada (SICOIN), para la toma de decisiones en los dist
+
+DECREE_ARTICLE: 30
+HEADER: ARTÍCULO 30. Se adiciona un segundo párrafo al artículo 50 del Deereto
+OPERATION: adiciona
+TARGETS: 50
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 30. Se adiciona un segundo párrafo al artículo 50 del Deereto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "las ·entidades descentralizadas y autónomas deberán presentar al Ministerio de Finanzas Públicas los estados financieros anuales, dentro de los primeros dos (2) meses del siguiente ejercicio fiscal."
+
+DECREE_ARTICLE: 31
+HEADER: ARTÍCULO 31. Se adiciona un tercer párrafo al artículo 52 del Decreto Número
+OPERATION: adiciona
+TARGETS: 52
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 31. Se adiciona un tercer párrafo al artículo 52 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Cuando los fideicomisos no reflejen ejecuc1on de acuerdo al objeto de su constitución ·O tengan carteras crediticias declaradas incobrables por el fiduciario, Congreso de la República de Guatemala, Departamento de Información Legislativa. NÚMER029 DIARIO de CENTRO AMÉRICA Guatemala, MARTES 12 de noviembre 2013 7 según .los procedimientos establecidos en el contrato de fideicomiso o la normativa aprobada por el órgano de decisión, cu
+
+DECREE_ARTICLE: 32
+HEADER: ARTÍCULO 32. Se reforma el artículo 53 del Decreto Número 101·97 del
+OPERATION: reforma
+TARGETS: 53
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 32. Se reforma el artículo 53 del Decreto Número 101·97 del Congreso de la República, ley Orgánica del Presupuesto, el cual queda así: "Artículo 53. Aceptación y Aprobación de Donaciones. Los organismos del Est~do, empresas públicas y las entidades descentralizadas, autónomas, incluyendo las municipalidades que no dispongan del espacio presupuestario necesario, no podrán recibir cooperación no reembolsable o donaciones, incluso en especie, que impliquen gastos o contrapartidas que deban cubrirse con recursos estatales, sin la previa aprobación del Ministerio de Finanzas Públicas. Dich
+
+DECREE_ARTICLE: 33
+HEADER: ARTÍCULO 33. Se adiciona el artículo 53 Bis al Decr~to Número 101-97 del
+OPERATION: adiciona
+TARGETS: 53 Bis
+HAS_REPLACEMENT: False
+PREVIEW: ARTÍCULO 33. Se adiciona el artículo 53 Bis al Decr~to Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda.él§~: "Artículo 53 Bis. Informes sobre la Utilización de Recursos Provenientes de la Cooperación Externa, Reembolsable y No Reembolsable. Los titulares de · las Entidades de la Administración Central, Descentralizadas, Autónomas Y Empresas Públicas, encargadas de la ejecución de los programas o proyectos que se financian· con recursos provenientes de convenios de cooperación externa reembolsable y no reembolsable (préstamos y donaciones), en los cuales 
+
+DECREE_ARTICLE: 34
+HEADER: ARTÍCULO 34. Se adiciona el artículo 55 Bis al Decreto Número 101·97 del
+OPERATION: adiciona
+TARGETS: 55 Bis
+HAS_REPLACEMENT: False
+PREVIEW: ARTÍCULO 34. Se adiciona el artículo 55 Bis al Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda ~: · "Artículo 55 Bis. Fondo Común. En el Fondo Común se depositarán todos los . ingresos del Estado. A través de él se harán todos los pagos con cargo a los créditos autorizados en el Presupuesto General de Ingresos y Egresos del Estado del ejercicio fiscal correspondiente y sus ampliaciones. Los egresós serán administrados por la Tesorería Nacional por medio del Fondo Común-Cuenta Única Nacional, la cual se constituirá por todas las cuentas monetarias
+
+DECREE_ARTICLE: 35
+HEADER: ARTÍCULO 35. Se adiciona el artículo 57 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 57 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 35. Se adiciona el artículo 57 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 57 Bis. Caja Única. Tesorería Nacional realizará el pago de las obligaciones del Estado, a través del Fondo Común-Cuenta Única Nacional, . directamente a quien corresponda, utilizando para ello el Sistema Bancario Nacional. Los recursos provenientes del Presupuesto General de Ingresos y Egresos del Estado, que se asignen como transferencias corrientes y de capital a · Entidades del Organismo Ejecutivo, Legislativo, Judicial, Descentraliza
+
+DECREE_ARTICLE: 36
+HEADER: ARTÍCULO 36. Se reforma el artículo 61 ·del Decreto Número 101·97 del
+OPERATION: reforma
+TARGETS: 61
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 36. Se reforma el artículo 61 ·del Decreto Número 101·97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 61. Ámbito Legal del Crédito Público. El crédito público se rige por las disposiciones contenidas en la Constitución Política de la República _de Guatemala, las de esta Ley, las normas reglamentarias y las demás disposiciones legales que autoricen operaciones específicas. Están sujetos a las disposiciones que rígen el crédito público todas las entidades estatales, incluyendo al Instituto de Fomento Municipal y las municipalidades que realice
+
+DECREE_ARTICLE: 37
+HEADER: ARTÍCULO 37. Se ádiciona· el artículo 61 Bis al Decreto Número 101·97 del
+OPERATION: unknown
+TARGETS: 61 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 37. Se ádiciona· el artículo 61 Bis al Decreto Número 101·97 del Congreso de 18 República1 Ley Orgánica del Presupuesto, el cual queda así: · MArtículo 61 Bis. Renegoclación de Préstamos Externos. Se faculta aJ Organísmo Ejecutivo para que por conducto del Ministerio de Finanzas Públicas, especialmente en los casos de préstamo en que la unidad ejecutora esté en proceso de liquidación o cualquier otra forma de extinción, renegocie con Jos organismos, Estados y agencias financieras internacionales, el cambio d.e unidad ejecutora de tales préstamos, con el mismo fin o destino establecido
+
+DECREE_ARTICLE: 38
+HEADER: ARTÍCULO 38. Se reforma el artículo 65 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 65
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 38. Se reforma el artículo 65 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 65. Presupuesto de la Deuda Pública. Se incluirán en el Presupuesto General de Ingresos y Egresos del Estado de cada ejercicio fiscal, la estimación de los ingresos a obtener y egresos a realizar dentro del ejercicio fiscal correspondiente de: a) En el caso de los ingresos, los montos provenientes de operaciones de crédito público aprobadas por el Congreso de la República, incluyendo los desembolsos de los préstamos que cuenten con opinión de
+
+DECREE_ARTICLE: 39
+HEADER: ARTÍCULO 39. Se reforma el artículo 66 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 66
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 39. Se reforma el artículo 66 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cua_I queda así: "Artículo 66. Pagos por Servicio de Deuda Pública. El servicio de la deuda pública está constituido por el pago del principal, de intereses, comisiones y otros cargos que puedan haberse convenido o generado por la realización de las operaciones de crédito público. Con el propósito de asegurar el estricto cumplimíento del servicio de ta deuda pública, se observará además de lo establecido en el artículo relativo al presupuesto de la deuda pública, las 
+
+DECREE_ARTICLE: 40
+HEADER: ARTÍCULO 40. Se reforma el artículo fil del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: TBD
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 40. Se reforma el artículo fil del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 67. Opiniones técnicas. En los casos de las operaciones de crédito público, antes de formalizarse el acto respectivo y cualquiera que sea el ente del sector público emisor o contratante, deberán emitir opinión el Organismo Ejecutivo por conducto del Ministerio de Finanzas Públicas, la Secretaría de Planificación y Programación· de la Presidencia y la Junta Monetaria en sus respectivas áreas de competencia."
+
+DECREE_ARTICLE: 41
+HEADER: ARTICULO 41. Se reforma el artículo 68 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 68
+HAS_REPLACEMENT: True
+PREVIEW: ARTICULO 41. Se reforma el artículo 68 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: •Artículo 68. Condlclonalidad. Cumplidos los requisitos establecidos en este Titulo, los entes descentralizados y autónomos no financieros del Estado, incluyendo las municipalidades, podrán realizar operaciones de crédito público sin exceder su capacidad de pago y en el marco de la política de crédito público. En el caso de municipalidades la deuda no podrá exceder de la capacidad de endeudamiento ni podrá comprometer el situado constitucional para el 
+
+DECREE_ARTICLE: 42
+HEADER: ARTÍCULO 42. Se reforma el artículo 69 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 69
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 42. Se reforma el artículo 69 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica def Presupuesto, el cual queda así: /. Congreso de la República de Guatemala, Departamento de Información Legislativa. NÚMER029 DIARIO de CENTRO AMÉRICA Guatemala, MARTES 12 de noviembre 2013 9 "Artículo 69. Operaciones de Gestión de Pasivos. Se autoriza al Ministerio de Finanzas Públicas para realizar operaciones de gestión de pasivos tanto en el mercado local ·como internacional, tales como recompras o canjes, remisión, conversión, consolidación o renegociación a efecto de mitigar los 
+
+DECREE_ARTICLE: 44
+HEADER: ARTÍCULO 44. Se adiciona el artículo 71 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 71 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 44. Se adiciona el artículo 71 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda así: "Artículo 71 Bis. Documentación de Operaciones de Crédito Público en el Mercado Internacional. La documentación de operaciones de crédito público que se derive de las emisiones internacionales, incluyenc!O las que se encuentren en circulación, de préstamos externos y de las operaciones de gestión de pasivos realizadas en el mercado internacional, están exentas de los requisitos de documentos provenientes del extranjero. Estos documentos se rigen po
+
+DECREE_ARTICLE: 45
+HEADER: ARTÍCULO 45. Se reforma el artículo 73 del Decreto Número 101-97 del
+OPERATION: reforma
+TARGETS: 73
+HAS_REPLACEMENT: False
+PREVIEW: ARTÍCULO 45. Se reforma el artículo 73 del Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto, el cual queda ,sí:· •Articulo 73. Requisitos para Desembolsos. Los titulares de las entidades del Estado, descentralizadas y autónomas, incluyendo las municipalidades, encargados de la ejecución de programas o proyectos que se financien con recursos provenientes de operaciones de crédito público, en los cuales la República de Guatemala figure como de,udora o garante, deberán cumplir con lo siguiente: a) Remitir mensualmente, dentro de los diez (1 O) días hábiles de cada 
+
+DECREE_ARTICLE: 46
+HEADER: ARTÍCULO 46. Se adiciona el artículo 74 Bis al Decreto Número 101-97 del
+OPERATION: adiciona
+TARGETS: 74 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 46. Se adiciona el artículo 74 Bis al Decreto Número 101-97 del Congreso de la República, Ley Orgánica del Presupuesto. el cual queda así: "Artículo 74 Bis. Pago de Obligaciones Exigibles. Las entidades de la administración central y las entidades descentralizadas y autónomas, en los casos en que el Estado tenga que pagar indemnizaciones y prestaciones, así como otras obligaciones que sean exigibles por la vía ejecutiva, están obligadas a solventar ante la instancia correspondiente, con carácter urgente, el pago correspondiente con los créditos que sean aprobados en su respectivo pres
+
+DECREE_ARTICLE: 47
+HEADER: ARTÍCULO 47. Se adiciona el artículo 80 Bis al Decreto Número 101·97 del
+OPERATION: adiciona
+TARGETS: 80 Bis
+HAS_REPLACEMENT: True
+PREVIEW: ARTÍCULO 47. Se adiciona el artículo 80 Bis al Decreto Número 101·97 del Congreso de la República. Ley Orgánica del Presupuesto. el cual queda asi: "Artículo 80 Bis. Sanciones. El funcionario o empleado público que sin causa justificada incumpliere con las obligaciones contenidas en la presente Ley, será sancionado con una multa equivalente al cinco por ciento (5%) del monto de la asignación pendiente de programar. El funcionario o empleado público que adquiera compromisos o devengue gastos para los cuales no exístan saldos disponibles de créditos presupuestarios o disponga de IOs créditos par
+
+DECREE_ARTICLE: 75
+HEADER: Articulo 75. Se reforma la literal g) del artículo 27 del Decreto Número 1-98 del
+OPERATION: reforma
+TARGETS: 27
+HAS_REPLACEMENT: True
+PREVIEW: Articulo 75. Se reforma la literal g) del artículo 27 del Decreto Número 1-98 del Congreso de la República, Ley Orgánica de la Superintendencia de Administración Tributaria, el cual queda así: "g) No cumplir las metas de recaudación tributaria establecidas en el convenio que se celebre anualmente entre el Organismo Ejecutivo y la SAT, para el efecto dichas metas se establecerán tomando en consideración: a) Las cifras de recaudación tributaria del año anterior; b) La situación de la economía; . c) El Presupuesto de Ingresos aprobado por el Congreso de la República para el año correspondiente; y

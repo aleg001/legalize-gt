@@ -1,0 +1,256 @@
+Law: Ley Orgánica del Presupuesto
+Base identifier: DECRETO-101-97
+Fixture: engine/tests/fixtures/gt/sample-budget-law.pdf
+Extracted text: tmp/extracted/gt/sample-budget-law.txt
+
+Goal:
+  Validate whether Guatemala can support Legalize-style historical commits:
+  one law file, each reform as one git commit, with commit dates derived from
+  reform publication/effective dates.
+
+Evidence from extracted text:
+
+Version 1:
+  source_type: official_or_institutional_compilation
+  source_fixture: sample-budget-law.pdf
+  base_law: Decreto Número 101-97
+  date_type: original_decree_date_or_publication_date
+  date: TBD
+  text_available: yes
+  stable_identifier: DECRETO-101-97
+  notes:
+    The consolidated text is extractable with PyMuPDF.
+    The text contains article headings such as ARTICULO 1.-, ARTICULO 2.-, etc.
+
+Version 2:
+  source_type: reform_note_inside_consolidated_text
+  source_fixture: sample-budget-law.pdf
+  reform_decree: Decreto Número 13-2013
+  date_type: reform_note_date
+  date: 2013-11-20
+  affected_articles:
+    - TBD
+  replacement_text_available: partial
+  stable_identifier: DECRETO-101-97
+  evidence:
+    Reform notes detected, including:
+    "Reformado por el Artículo 1, del Decreto Número 13-2013 el 20-11-2013"
+  notes:
+    Need to obtain the official Decreto 13-2013 PDF and verify the exact affected articles
+    and replacement text.
+
+Version 3:
+  source_type: reform_note_inside_consolidated_text
+  source_fixture: sample-budget-law.pdf
+  reform_decree: Decreto Número 9-2014
+  date_type: reform_note_date
+  date: 2014-03-03
+  affected_articles:
+    - TBD
+  replacement_text_available: partial
+  stable_identifier: DECRETO-101-97
+  evidence:
+    Reform note detected:
+    "Reformado por el Artículo 1, del Decreto Número 9-2014 el 03-03-2014"
+  notes:
+    Need to obtain the official Decreto 9-2014 PDF and verify the exact affected article
+    and replacement text.
+
+Conclusion:
+  historical_versions_available: partial
+  strategy: reform-note extraction from consolidated text plus reform-decree reconstruction
+  blocker:
+    The fixture provides reform notes, but not full prior historical versions.
+    To pass the Legalize version-history gate fully, the original law and at least one
+    official reform decree must be obtained and compared.
+  evidence_summary:
+    Reform notes extracted from sample-budget-law.txt show:
+      - Decreto Número 13-2013 appears 44 times.
+      - Decreto Número 71-98 appears 6 times.
+      - Decreto Número 9-2014 appears 3 times.
+      - DECRETO NÚMERO 101-97 appears 1 time.
+  next_action:
+    Download official Decreto 13-2013 PDF.
+    Extract text from Decreto 13-2013.
+    Confirm it reforms Decreto 101-97.
+    Identify affected articles and replacement text.
+    Build a minimal two-version reconstruction for DECRETO-101-97.
+
+
+Law: Ley Orgánica del Presupuesto
+Base identifier: DECRETO-101-97
+Base fixture: engine/tests/fixtures/gt/sample-budget-law.pdf
+Reform fixture: engine/tests/fixtures/gt/reform-decree-13-2013.pdf
+Base extracted text: tmp/extracted/gt/sample-budget-law.txt
+Reform extracted text: tmp/extracted/gt/reform-decree-13-2013.txt
+
+Goal:
+  Validate whether Guatemala can support Legalize-style historical commits:
+  one law file, each reform as one git commit, with commit dates derived from
+  reform publication/effective dates.
+
+Extraction evidence:
+  Base law:
+    pages: 37
+    extracted_chars: 107926
+    extraction_method: PyMuPDF page.get_text("text")
+    text_available: yes
+
+  Reform decree:
+    reform_decree: Decreto Número 13-2013
+    pages: 16
+    extracted_chars: 126775
+    extraction_method: PyMuPDF page.get_text("text")
+    text_available: yes
+
+Version 1:
+  source_type: official_or_institutional_compilation
+  source_fixture: sample-budget-law.pdf
+  base_law: Decreto Número 101-97
+  date_type: original_decree_date_or_publication_date
+  date: TBD
+  text_available: yes
+  stable_identifier: DECRETO-101-97
+  notes:
+    The consolidated text is extractable with PyMuPDF.
+    The text contains article headings such as ARTICULO 1.-, ARTICULO 2.-, etc.
+    The text includes embedded reform notes referencing multiple reform decrees.
+
+Version 2:
+  source_type: official_reform_decree
+  source_fixture: reform-decree-13-2013.pdf
+  reform_decree: Decreto Número 13-2013
+  date_type: reform_note_date
+  date: 2013-11-20
+  affected_law: Decreto Número 101-97, Ley Orgánica del Presupuesto
+  stable_identifier: DECRETO-101-97
+  text_available: yes
+  replacement_text_available: yes
+  evidence:
+    Reform decree text explicitly states:
+      "REFORMAS AL DECRETO NÚMERO 101-97 DEL CONGRESO DE LA REPÚBLICA, LEY ORGÁNICA DEL PRESUPUESTO"
+    Reform decree includes article-level operations, including:
+      - "ARTÍCULO 1. Se reforma el artículo 1 del Decreto Número 101-97..."
+      - "ARTÍCULO 2. Se reforman las literales ... y se adicionan ..."
+      - "ARTÍCULO 5. Se adiciona el artículo 7 Bis..."
+      - "ARTÍCULO 7. Se reforma el artículo 12..."
+      - "ARTÍCULO 24. Se reforma el artículo 38..."
+  affected_articles_observed:
+    - Article 1
+    - Article 2
+    - Article 3
+    - Article 4
+    - Article 7 Bis
+    - Article 8
+    - Article 12
+    - Article 17 Bis
+    - Article 17 Ter
+    - Article 17 Quáter
+    - Article 25
+    - Article 26
+    - Article 26 Bis
+    - Article 27
+    - Article 29 Bis
+    - Article 30
+    - Article 30 Bis
+    - Article 30 Ter
+    - Article 31
+    - Article 32
+    - Article 32 Bis
+    - Article 33 Bis
+    - Article 33 Ter
+    - Article 38
+    - Article 41
+    - Article 42
+    - Article 42 Bis
+    - Article 45 Bis
+    - Article 49
+    - Article 50
+    - Article 52
+    - Article 53
+    - Article 53 Bis
+    - Article 55 Bis
+    - Article 57 Bis
+    - Article 61
+    - Article 61 Bis
+    - Article 65
+    - Article 66
+  notes:
+    Decreto 13-2013 provides enough text to reconstruct at least one historical version
+    of Decreto 101-97. The next parser task is to extract reform operations and
+    replacement article bodies.
+
+Reform-note frequency from consolidated base text:
+  - Decreto Número 13-2013: 44 occurrences
+  - Decreto Número 71-98: 6 occurrences
+  - Decreto Número 9-2014: 3 occurrences
+  - DECRETO NÚMERO 101-97: 1 occurrence
+
+Conclusion:
+  historical_versions_available: partial_but_actionable
+  strategy: reform-note extraction from consolidated text plus reform-decree reconstruction
+  gate_status: preliminary_pass
+  blocker:
+    Full Legalize historical reconstruction still requires determining original publication
+    dates and extracting article-level replacement text robustly.
+  next_action:
+    Build a reform operation extractor for Decreto 13-2013.
+    Extract operation type, affected article, replacement body, and reform date.
+    Compare extracted replacement bodies against the consolidated sample-budget-law text.
+
+
+Operation extractor result:
+  extracted_operation_chunks: TBD
+  target_missing_count: TBD
+  preliminary_quality: usable_for_spike
+
+Operation extractor result:
+  script: scripts/extract_reform_operations.py
+  input: tmp/extracted/gt/reform-decree-13-2013.txt
+  output: tmp/extracted/gt/reform-operations-13-2013.txt
+  extracted_operation_chunks: 47
+  missing_target_count: 2
+  preliminary_quality: usable_for_spike
+
+Observed examples:
+  - Decreto article 1 reforms target article 1.
+  - Decreto article 5 adds target article 7 Bis.
+  - Decreto article 8 adds target article 17 Bis.
+  - Decreto article 9 adds target article 17 Ter.
+  - Decreto article 10 adds target article 17 Quáter.
+  - Decreto article 13 adds target article 26 Bis.
+  - Decreto article 15 adds target article 29 Bis.
+  - Decreto article 17 adds target article 30 Bis.
+
+Updated conclusion:
+  The Guatemala spike preliminarily passes for a reconstruction-based strategy.
+  There is no confirmed Spain-style embedded historical API, but Decreto 13-2013
+  provides article-level operations and replacement text sufficient to reconstruct
+  at least one historical reform commit for Decreto 101-97.
+
+Replacement body extractor result:
+  script: scripts/extract_replacement_bodies.py
+  input: tmp/extracted/gt/reform-decree-13-2013.txt
+  output: tmp/extracted/gt/replacement-bodies-13-2013.txt
+  extracted_replacement_bodies: 34
+  operation_chunks_available: 47
+  preliminary_quality: viable_for_reconstruction_spike
+
+Observed replacement examples:
+  - Decreto article 1 replacement body starts with "Artículo 1. Objeto..."
+  - Decreto article 4 replacement body starts with "Artículo 4. Rendición de Cuentas..."
+  - Decreto article 5 replacement body starts with "Artículo 7 Bis. Proceso Presupuestario..."
+  - Decreto article 6 replacement body replaces paragraphs of article 8.
+  - Decreto article 7 replacement body starts with "Artículo 12. Presupuestos de Egresos..."
+
+Known extraction issues:
+  - Some page artifacts still leak into replacement bodies, e.g. DCA page headers and page numbers.
+  - Some operations affect only literals or paragraphs, not whole articles.
+  - 13 operation chunks did not produce replacement bodies with the current heuristic.
+  - OCR/PDF extraction artifacts remain, e.g. unusual characters, broken words, or page remnants.
+
+Updated gate conclusion:
+  The version-history spike is strong enough to justify building a Guatemala parser
+  with a reconstruction-based historical strategy. The spike does not yet prove
+  full automated historical fidelity, but it proves that at least one reform decree
+  provides article-level operations and extractable replacement text for Decreto 101-97.

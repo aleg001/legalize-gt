@@ -1,0 +1,699 @@
+================================================================================
+DECREE_ARTICLE: 1
+HEADER: . ARTÍCULO 1. Se reforma el artículo 1 del ·oecreto Número 101-97 del Congreso
+REPLACEMENT_PREVIEW:
+"Artículo 1. Objeto. La presente Ley tiene por objeto establecer normas para la
+constitución de. los sistemas presupuestarios, de contabilidad
+integrada
+gubernamental, de tesorería y de crédito público, a efecto de:
+a) Realizar la planificación, programación, organización, coordinación.
+ejecución, control de la captación y uso de los recurso~ públicos bajo los
+principios
+de
+legalidad,
+economía,
+eficiencia,
+eficacia,
+calidad,
+transparencia, equidad y publicidad en el cumplimiento de los planes,
+programas y proyectos de conformidad con las políticas estableci~as;
+b) Sistematizar los procesos de programación, gestión y evaluación de los
+resultados del sector público;
+c) Desarrollar y mantener sistemas integrados que proporcionen información
+oportuna y confiable sobre el ~omportamiento de la ejecución física y
+financiera del sector público;
+d) Velar por el uso eficaz y eficiente del crédito público, coordinando los
+programas de desembolso y utilización de los recursos. así como las
+acciones de las entidades que intervienen en la gestión de la deuda
+interna y externa;
+e) Fortalecer la capacidad administrativa y los sistemas de control y
+seguimiento para asegurar la calidad del gasto púb
+
+================================================================================
+DECREE_ARTICLE: 2
+HEADER: ARTÍCULO 2. Se reforman las literales e), d) y se adicionan las literales e}, f), g) Y
+REPLACEMENT_PREVIEW:
+c) "Las empresas cualquiera sea su forma de organización, cuyo capital
+mayoritariamente esté conformado con aportaciones del Estado, en lo
+relativo a los tondos públicos;
+d) Los Organismos Regionales e Internacionales en Jos programas o
+proyectos que reciban, administren o ejecuten fondos públicos;
+e) Las Organizaciones No Gubernamentales y Asociaciones sin fines de lucro
+que reciban, administren o ejecuten fondos públicos. respecto de los
+mismos, para proveer servicios delimitados i>or esta ley;
+f) Todas las entidades de cualquier naturaleza que tengan como fuente de
+ingresos, ya sea total o parcialmente, recursos, subsidios o aportes del
+Estado, respecto a los mismos;
+g) Los Fideicomisos constituidos con fondos públicos y los fondos sociales; y
+h) Las demás instituciones que conforman el sector público."
+
+================================================================================
+DECREE_ARTICLE: 4
+HEADER: ARTÍCULO 4. Se reforma el artículo 4 del Decreto Número 101-97 del Congreso
+REPLACEMENT_PREVIEW:
+"Artículo 4. Rendición de Cuentas. Todos los entes contemplados en el artículo
+2 de la presente Ley, que manejen. administren o ejecuten recursos, valores
+públicos o bienes del Estado, así como los que realicen funciones de dirección
+superior, deberán elaborar anualmente un informe de rendición de cuentas del
+ejercicio fiscal anterior, que como mínimo contenga:
+1) Presupuesto solicitado, asignado, modificado y ejecutado con detalle por
+renglón de gasto, así como la totalidad de los recursos en cada proyecto o
+política comprometidos en el ejercicio fiscal sujeto del informe y en futuros
+ejercicios fiscales;
+2) Metas, indicadores, productos y resultados que miden el impacto de las
+políticas públicas;
+3) Número de beneficiarios, ubicación y mecanismos de cumplimiento de
+metas;
+4) Medidas de transparencia y calidad del gasto implementadas.
+El informe será publicado en el primer trimestre de cada año, por cada entidad en
+su sitio web de acceso libre, abierto y gratuito de datos y en el que el Ministerio de
+Finanzas Públicas establezca.
+'
+En el reglamento respectivo deberá desarrollarse la metodología del mismo para
+asegurar que la información se encuentre organizada y de fácil acceso y
+
+
+================================================================================
+DECREE_ARTICLE: 5
+HEADER: · ARTÍCULO 5. Se adiciona el artículo 7 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 7 Bis. Proceso Presupuestario. Se entenderá por proceso
+presupuestario, el conjunto de etapas lógicamente concatenadas tendientes a
+establecer principios, normas y procedimientos que regirán las etapas de:
+planificación, formulación, .presentación, aprobación, ejecución, seguimiento,
+
+evaluación, liquidación y rendición del presupuesto del sector público, asegurando
+la.calidad del gasto público y la oportuna rendición de cuentas, la transparencia,
+eficiencia, eficacia y racionalidad económica".
+
+================================================================================
+DECREE_ARTICLE: 6
+HEADER: ARTÍCULO 6. Se reforma el segundo párrafo y se adiciona un tercer párrafo al
+REPLACEMENT_PREVIEW:
+"El Organismo Ejecutivo, por conducto del Ministerio de ·Finanzas Públicas,
+consolidará los presupuestos institucionales y elaborará el presupuesto anual,
+multianual y las cuentas agregadas del sector público, éstos deberán estar en
+concordancia con los indicadores de desempeño, impacto, calidad del gasto y los
+planes operativos anuales entregados por las instituciones públicas a la
+Secretaria de Planificación y Programación de la Presidencia. '
+La Secretaría de Planificación y Programación de la Presidencia enviará a la
+Junta Directiva del Congreso de la República durante el primer trimestre de cada
+año, un informe de evaluación y análisis sobre la ejecución y resultados del
+presupuesto del ejercicio fiscal anterior hacíendo énfasis en los criterios de
+calidad del gasto y el impacto de las políticas públicas, sus metas .e indicadores.
+Dicha información se considerará información pública de oficio de acuerdo· a la
+Ley de Acceso a la Información Pública".
+
+================================================================================
+DECREE_ARTICLE: 7
+HEADER: ARTÍCULO 7. Se reforma el artículo 12 def Decreto Número 101·97 del Congreso
+REPLACEMENT_PREVIEW:
+"Artículo 12. Presupuestos de Egresos. En los presupuestos de egresos se
+útilizará una estructura programática coherente con las políticas, planes de acción
+.del Gobierno y planes de desarrollo territorial, de conformidad con lo que
+desarrolle el reglamento respectivo, este identificará: la prOclucción de bienes y
+servicios, la gestión por resultados de los organismos y entes del sector público,
+la incidencia económica. social y financiera de la ejecución de los gastos, la
+vinculación con sus fuentes de financiamiento y con el ámbito geográfico de
+ejecución de la inversión pública y el aseguramiento en la calidad del gasto
+público."
+
+================================================================================
+DECREE_ARTICLE: 8
+HEADER: ARTÍCULO 8. Se adiciona el artículo 17 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+qArticulo 17 Bis. Acceso a la Información de la Gestión Presupuestaria por
+Resultados. Las entidades del sector público, para fines de cons~lidación de
+cuentas, pondrán a disposición del Ministerio de Finanzas Públicas, por cualquier
+medio electrónico, la información referente a la ejecución física y financiera
+registrada en el Sistema de Contabilidad Integrada (SICOIN).
+. La máxima autoridad de eada entidad pública publicará en su sitio web de acceso
+libre, abierto y gratuito de datos: el plan estratégico y operativo ·anual, y las
+actualizaciones oportunas en función de sus reprograniaciones, los indicadores
+de resultados y sus productos asociados. La información en referencia también
+deberá permanecer publicada en detalle en el sitio web de acceso libre, abierto y
+_gratuito de datos del Ministerio de Finanzas Públicas, para conocimiento de la
+ciudadanía.
+La Presidencia de la República por medio de la Secretaría de Planificación y
+Programación de la Presidencia, con el objeto de efectuar un adecuado
+seguimiento que permita verificar la calidad del gasto público, deberá entregar en
+los primeros quince días de finaliiado cada cuatrimestre del ejercicio fiscal al
+Congreso de la Repúb
+
+================================================================================
+DECREE_ARTICLE: 9
+HEADER: ARTÍCULO 9. Se adiciona el artículo 17 Ter al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 17 Ter. Informes en Sitios Web y Comisiones de Trabajo del
+Congreso de Ja República. Los sujetos obligados a las disposiciones de la
+presente Ley, con el propósito de brindar a la ciudadanía guatemalteca
+transparencia en la gestión pública, además de cumplir con la entrega de
+información y documentación con la periOclicídad qúe establece esta ~e,y,
+deberán mostrar y actualizar por lo menos cada treinta (30) días, a través de
+sus sitios web de acceso libre, abierto y gratuito de datos, y por escrito a las
+Comisiones de Probidad, de Finanzas Públicas y Moneda y a la Extraordinaria
+Nacional por la Transparencia, del Congreso' de la República de Guatemala, la
+información y documentación siguiente, sin perjuicio de lo que al respecto
+establece la Ley de Acceso a la Información Pública:
+a) Programación y reprogramaciones de asesorías contratadas, detallando
+nombres, montos y el origen de los recursos para el pago, incluyendo los que
+provienen de la cooperación reembolsable y no reembolsable;
+b) Programación y reprogramaciones de jornales;
+c) 1 Documentós que respalden bonos o beneficios salariales, derivados o no de
+pactos colectivos de trabajo u otros similares;
+d) Programacio
+
+================================================================================
+DECREE_ARTICLE: 10
+HEADER: ARTÍCULO 10. Se adiciona el artículo 17 Quáter al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Articulo 17 Quáter. Ejecución Presupuestaria por Clasificador Temático. El
+Ministerio de Finanzas Públicas a través de la Dirección Técnica del Presupuesto,
+debe incluir en el Sistema de Contabilidad Integrada (SICOIN), los clasificadores
+presupuestarios con enfoque de género, pueblos indígenas, seguridad y justicia,
+educación, reducción de la desnutrición, recursos hídricos y saneamíento, niñez,
+• juventud y los demás que establezca el reglamento de la presente Ley.
+los respons"ables de la ejecución presupuestaría de los sujetos obligados a las
+disposiciones de la presente Ley, deberán reportar las categorías presupuestarias
+indicadas en el párrafo anterior al Ministerio de Finanzas Públicas. El Ministerio de
+Finanzas Públicas a través de la Dirección Técnica del Presupuesto, debe
+presentar al Congreso de la República en los primeros .quince (15) días del inicio
+del ·siguiente cuatrimestre, informes cuatrimestrales de la ejecución de los
+recursos asignados y orientados a dichas categorías presupuestarias.
+Los informes deben incluir el avance de la ejecución presupuestaria a nivel del
+programa, objetivos, metas, población beneficiaría por sexo, etnia, edad y
+ubicación geográfica. 
+
+================================================================================
+DECREE_ARTICLE: 12
+HEADER: ARTÍCULO 12. Se reforma el párrafo segundo y se adiciona un tercer párrafo al
+REPLACEMENT_PREVIEW:
+"No se podrán adquirir compromisos ni devengar gastos para los cuales no
+existan saldos disponibles de créditos presupuestarios, ni disponer de estos
+créditos para una finalidad distinta a la· prevista. La contravención a esta
+dísposíeión es punible
+penalmente, constitutivo de los delitos de
+abuso de
+autoridad, incumplimiento de deberes y de los demás delitos que resulte
+responsable.
+El Organismo Ejecutivo para la atención de las necesidades y requerimientos
+derivados de los casos de desastres causados por eventos naturales o
+emergencias, que sean declarados como tales de confonnidad con la Ley de
+Orden Público, deberá enviar al Congreso de la República, dentro de los.treinta
+(30) días siguientes a la declaración, las modificaciones o ampliaciones del
+Presupuesto de Ingresos y Egresos del Estado de cada año y su distribución
+analitica."
+
+================================================================================
+DECREE_ARTICLE: 13
+HEADER: ARTÍCULO 13. Se adiciona el artículo 26 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 26 Bis. Constancias de Disponibilidad Presupuestaria y Financiera.
+Previo a adquirir compromisos y suseribir contratos o convenios, prórrog9s, ...
+ampliaciones, disminuciones, variaciones o modificaciones, las entidades del
+Estado deben obtener del responsable · de las direcciones
+financieras
+institucionales o de las unidades de administración financiera desconcentradas,
+una constancia de disponibilidad presupuestaria (COP), que garantice que existe
+crédito o asignación presupuestaria que cubra el monto del contrato a ejecutar en .
+el éjercicio fiscal correspondiente. Esta constancia es un requisito previo a la
+etapa de pre-compromiso en el proceso de ejecución presupuestaria.
+Una vez suscritos los contratos, sus prórrogas, ampliaciones, disminuciones,
+variaciones o modificaciones, las entidades del Estado deben obtener del
+responsable de las direcciones financieras institucionales o de las unidades de
+administración financiera desconcentradas, una constancia de disponibilidad
+financiera (COF), que garantice que existe cuota financiera suficiente para cubrir
+el monto del contrato a ejecutar en el ejercicio fiscal correspondiente.
+Cuando un contrato sea de ejecución multia
+
+================================================================================
+DECREE_ARTICLE: 14
+HEADER: ARTÍCULO 14.· Se reforma el articulo_ 27 del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 27. Distrib.ución Analitica. Dentro de los quince (15) días de entrada
+en vigencia de la Ley del Presupuesto General de Ingresos y Egresos del Estado
+del ejercicio fiscal correspondiente, el Organismo Ejecutivo aprobará mediante
+acuerdo gubernativo, la distribución analítica del presupuesto, que consiste en la
+presentación desagregada hasta el último nível previsto en los clasificadores y
+categorías programáticas utilizados, de los créditos y realizaciones contenidas en
+el mismo.
+· La distribución analíti~ del presupuesto se considerará información pública de
+oficio de acuerdo a la Ley de Acceso a la Información Pública."
+
+================================================================================
+DECREE_ARTICLE: 15
+HEADER: ARTÍCULO 15. Se adiciona el artículo 29 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo
+Bis.
+Responsable$
+de
+la
+Ejecución · Presupuestaria-
+Autorizadores de Egresos. Las autoridades superiores de las entidades públicas
+son responsables de la ejecución presupuestaria , de ingresos y egresos de su
+entidad. Para el efecto registrarán en el Sistema de Contabilidad Integrada
+(SICOIN), las transacciones presupuestarias y contables, que tendrán efectos
+contables de pago y financieros.
+El archivo y custodia de los comprobantes de las transacciones presupuestarias y
+la documentación de soporte, quedarán a cargo de cada entidad, quien será
+responsable de su custodia, así como del cumplimiento de los procesos legales y
+administrativos que se deriven de la emisión de los mismos.
+Las autoridades superiores de las· entidades son responsables de los fondos
+rotativos, anticipos, fondos de convemos y de fideicomisos públicos que soliciten
+al Ministerio de Finanzas Públicas, por lo que éste realizará los registros
+contables y trámites administrativos para la entrega de los recursos .financieros".
+
+================================================================================
+DECREE_ARTICLE: 17
+HEADER: ARTÍCULO 17. Se adiciona _el artículo 30 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 30 Bis. Construcciones· del Estado. Para efectos de ejecución de las
+obras de irífraestructura que el Estado construya y que incrementen el capital fijo,
+deberán ejecutarse en inmuebles cuya propiedad o posesión sea del Estado,
+incluyendo municipios y entidades descentralizadas y autónomas. Bajo ningún
+caso se podrán realizar construcciones en inmuebles que se encuentren inscritos
+en los Registros de la Propiedad a nombre de personas individuales o jurídicas de
+carácter privado.
+Para efectos de programación y asignación de recursos de las obras de
+infraestructura, la posesión legítima, se puede acreditar de la siguiente forma:
+a. En.caso de bienes municipales, con acuerdo municipal, escritura pública o
+acta municipal;
+b. En caso de bienes de particulares, con documento notarial donde indique
+ceder la posesión a la institución que corresponda; y
+c. En caso de bienes comunales, la cesión de la posesión deberá realizarse a
+la · munici¡)alidad o institución por medio del acta de la Asamblea
+Comunitaria y acta notarial.
+///
+
+MARTES 12 de noviembre 2013
+En cada caso se debe iniciar el registro de posesión de conformidad con la Ley de
+Titulación Supletoria para entidades estatal
+
+================================================================================
+DECREE_ARTICLE: 20
+HEADER: ARTÍCULO 20. Se reforma el eptgrafe y el último párrafo, y se adiciona un
+REPLACEMENT_PREVIEW:
+"ARTICULO 32. Modificaciones y Transferencias Presupuestarias. Todas las
+modificaciones y transferencias deberán ser remitidas a la Dirección Técnica del
+. Presupuesto del Ministerio de Finanzas Públicas, dentro de los diez (1 O) días
+siguientes de su aprobación. quien notificará de inmediato al Congreso de la
+República y a la Contraloría General de Cuentas. Al notificarlas se deberá incluir
+una justificación y descripción detallada de las·mismas. Dicha información de la
+notificación deberá ser publicada en una· página web específica para
+modificaciones y transferencias presupuestarías por el Ministerio de Finanzas
+Públicas para su fácil consulta, acceso y evaluación por parte de los ciudadanos.
+La modificación o transferencias interinstitucionales aprobadas, · deberán incluir
+una justificación y descripción detallada y serán publicadas dentro de los quince
+(15) días siguientes de su aprobación, en el sitio web específico para
+modificaciones y transferencias presupuestarias por el Ministerio de Finanzas
+Públicas, así como en el sitio web de cada unidad ejecutora, para su fácil
+consulta, acceso y evaluación por parte de los ciudadanos . y organismos
+fiscalizadores."
+
+================================================================================
+DECREE_ARTICLE: 21
+HEADER: ARTÍCULO 21. Se adiciona el artículo 32 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Articulo 32 Bis. Información de Entidades Receptoras de Transferencias.
+Los recursos públicos que se trasladen en calidad de aportes af sector privado y
+al. sector externo. se realizarán bajo responsabilidad de las entidades dJ¡Aa
+administración
+central,
+empresas
+públicas,
+entidades
+autónomas
+y
+descentralizadas otorgantes. Dichas entidades deberán registrar en el Sistema de
+Contabilidad Integrada (SICOIN}. la información siguiente:
+a) Nombre o razón social, nombre del representante legal y Número de
+Identificación Tributaría {NIT);
+b) Número y fecha del convenio que ampara el traslado de recursos;
+c) Monto de la transferencia;
+d) Objetivos, metas e indicadores de resultados; y
+e} Número y fecha de la resolución por medio de la cual se aprueba la
+programación y repro.gramaciones.
+La programación deberá registrarse a más tardar el treinta y uno (31) de enero del
+ejercicio fiscal en curso.
+Las reprogramaciones que surjan en la ejecución deben ser notificadas a la
+Dirección Técnica del Presupuesto del Ministerio de Finanzas Públicas, al
+Congreso de la República y a la Contraloría General de Cuentas dentro de los diez
+(10) días de haberse emitido la resolución que las autorizó. Asimism
+
+================================================================================
+DECREE_ARTICLE: 22
+HEADER: ARTÍCULO 22. Se adiciona el artículo 33 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 33 Bis. Modalidad de Ejecución. Los Ministerios, Secretarías, Fondos
+Sociales, Fideicomisos, Entidades Descentralizadas y Empresas Públicas,
+solamente podrán ejecutar sus gastos de funcionamiento y proyectos mediante
+administración directa o por contrato, de acuerdo al Manual de Clasifícacíones
+Presupuestarias para el Sector Público de Guatemala y de conformidad· a la
+normativa para el sector público de Guatemala, indistintamente que sean gastos
+de funcionamiento o de inversión.
+Por ningún motivo podrán suscribirse convenios con administradoras de fondos
+financieros para la ejecución a través de Organizaciones No Gubernamentales,
+Organismos lntemaciOnales o Asociaciones".
+
+================================================================================
+DECREE_ARTICLE: 23
+HEADER: ARTÍCULO 23. Se adiciona el artículo 33 Ter al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Articulo 33 Ter. Contratación. Las entidades a que se refiere el artículo 2 de la
+presente ley, deber~n cumplir con los procedimientos establecidos en la Ley de
+Contrataciones del Estado para la contratación de obras y la adquisición de
+bienes, servicios e insumos."
+
+================================================================================
+DECREE_ARTICLE: 24
+HEADER: ARTÍCULO 24. Se reforma el artículo 38 del Decreto Número 101·97 del
+REPLACEMENT_PREVIEW:
+"Artículo 38. Saldos de Efectivo. Las Instituciones del Estado a las que se les
+transfieran los recursos a través del Presupuesto -General de Ingresos y Egresos
+del Estado, del ejercicio fiscal correspondiente, los Consejos de Desarrollo y las
+Instituciones Descentralizadas y Autónomas, éstas últimas respecto de los fondos
+recibidos del Estado, que al treinta y uno (31) de diciembre de cada año
+. mantengan saldos de efectivo y que no sean saldos por gastos devengados y no
+pagados a esa fecha, deben ser reintegrados· dentro de los diez (10) días
+después de finalizado el ejercicio fiscal a la Cuenta Gobierno de la República,
+Fondo Común-Cuenta Única Nacional, y a las cuentas específicas abiertas por la
+Tesorería Nacional cuando se trate de recursos externos,
+Los depósitos de ingresos propios que hubieren efectuado la Presidencia,
+Ministerios de Estado, Secretarías y otras Dependencias del Ejecutivo y rio los
+registraron en el Sistema de Contabilidad Integrada (SICOIN) al treinta y uno (31)
+de diciembre de cada año, se trasladarán automáticamente a la cuenta Gobierno
+de la República, Fondo Común-Cuenta Única Nacional."
+
+================================================================================
+DECREE_ARTICLE: 25
+HEADER: ARTÍCULO 25. Se reforma el artículo 41 del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Articulo 41. Modificaciones· y Transferencias Presupuestarias. Las
+modificaciones y transferencias de los presupuestos de las entidades
+descentralizadas se realizarán de la siguiente manera:
+a) Por medio de acuerdo gubernativo cuando se amplíe o disminuya el
+presupuesto de las citadas entidades, previa opinión del Ministerio de
+Finanzas Públicas;
+b) Por medio de resolución o acuerdo, emitido por la máxima autoridad
+institucional, cuando las modificaciones ·y transferencias ocurran dentro
+de un mismo organismo, dependencia o entidad descentralizada.
+c) Cuando las modificaciones y transferencias impliquen cambio en las
+fuentes de financiamiento de origen tributario, donaciones y recursos del
+crédito público, previamente deberá contarse con opinión favorable del
+· Ministerio de Finanzas Públicas.
+Todas las modificaciones y . transferencias presupuestarias deberán ser
+notificadas a la Dirección Técnica del Presupuesto del Ministerio de Finanzas
+Públicas, al Congreso de la República y a la Contraloría General de Cuentas,
+dentro de los diez (10) días siguientes de su aprobación. Dicha notificación
+deberá incluir una justificación de cada · modificación y transferencia, así como la
+docum
+
+================================================================================
+DECREE_ARTICLE: 27
+HEADER: ARTÍCULO 27. Se adiciona el artículo 42 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 42 Bis. Uso de los Sistemas SIAF. Todas las entidades del sector
+público, incluyendo las de Administración Central, Descentralizadas, Autónomas y
+Empresas Públicas. particularmente las Municipalidades, los Organismos del ·
+Estado, la Universidad de San Carlos de Guatemala, Federaciones y
+Confederaciones Deportivas,
+Consejos de Desarrollo, Instituto de Fomento
+Municipal,
+Fideicomisos Constituidos
+con
+Fondos
+Públicos,
+Organismos
+Regionales e Internacionales. Organizaciones No Gubernamentales,, entre otros.
+que ejecuten fondos públicos·. están obligadas a usar los Sistemas Integrados de
+Administración Financiera vigentes."
+
+================================================================================
+DECREE_ARTICLE: 28
+HEADER: ARTÍCULO 28. Se adiciona el articulo 45 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 45 Bis. Desembolsos a favor de los Consejos Departamentales de
+Desarrollo. Los recursos asignados en calidad de aporte a los Consejos
+Departamentales de Desarrollo deberán destinarse para la ejecución de obras
+Y
+sus desembolsos deberán responder a los informes de
+avance físico. Los
+Consejos Departamentales de Desarrollo en su calidad de administradores de los
+recursos velarán para que en el convenio de ejecución de obras que se suscriba
+con las municipalidades. se establezcan los porcentajes de desembolsos en la
+forma siguiente:
+a) Un primer desembolso con la suscripción del convenio y el estudio técnico que
+sustente la realización de la obra, el cual no podrá exceder del veinte por.
+ciento (20%) del monto total del convenio, mismo que deberá deducirse en
+forma proporcional.
+··
+b) Los siguientes desembolsos se efectuarán conforme al avance físico de la obra
+registrada en el Sistema Nacional de Inversión Pública (SNIP) por la Unidad
+Técnica del Consejo Departamental de Desarrollo respectivo.
+c) un· último desembolso contra la entrega de la obra terminada y el informe
+favorable de supervisión y liquidación por parte del respectivo Consejo
+Departame.ntal de Desarrollo. El Co
+
+================================================================================
+DECREE_ARTICLE: 32
+HEADER: ARTÍCULO 32. Se reforma el artículo 53 del Decreto Número 101·97 del
+REPLACEMENT_PREVIEW:
+"Artículo 53. Aceptación y Aprobación de Donaciones. Los organismos del
+Est~do, empresas públicas y las entidades descentralizadas, autónomas,
+incluyendo las municipalidades que no dispongan del espacio presupuestario
+necesario, no podrán recibir cooperación no reembolsable o donaciones, incluso
+en especie, que impliquen gastos o contrapartidas que deban cubrirse con
+recursos estatales, sin la previa aprobación del Ministerio de Finanzas Públicas.
+Dichas entidades deberán cubrir los gastos con aportes de su presupuesto
+asignado, registrar y mantener actualizada su información en el Sistema Nacional
+de Inversión Pública (SNIP) y el Sistema que para el efecto lleve la Secretaría de
+Planificación y Programación de la Presidencia de la República.
+Los procesos de aprobación, recepción, regístro y ejecución de las donaciones
+referidas en este artículo, deberán ser normados en el reglamento respectivo.
+Los convenios de donación, que en parte o en su totalidad contengan aportes en
+especie, deben incluir cláusula de obligatoriedad de certificar a la unidad
+especializada del Ministerio de ·Finanzas Públicas, el ingreso al almacén o
+inventarío. Todo convenio de donación debe ser aprobado por 
+
+================================================================================
+DECREE_ARTICLE: 35
+HEADER: ARTÍCULO 35. Se adiciona el artículo 57 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 57 Bis. Caja Única. Tesorería Nacional realizará el pago de las
+obligaciones del Estado, a través del Fondo Común-Cuenta Única Nacional,
+. directamente a quien corresponda, utilizando para ello el Sistema Bancario
+Nacional. Los recursos provenientes del Presupuesto General de Ingresos y
+Egresos del Estado, que se asignen como transferencias corrientes y de capital a ·
+Entidades del Organismo Ejecutivo, Legislativo, Judicial, Descentralizadas,
+Autónomas y otras Entidades del Sector Público, se ejecutarán en su totalidad
+. presupuestariamente. Sin embargo, los recursos financieros se mantendrán en la
+Cuenta de Gobierno de la República, Fondo Común-Cuenta Única Nacional
+registrándose como una operación pasiva de la Tesorería Nacional y se
+regularizarán cuando se efectúe el pago a través de la Caja Única al beneficiario
+directo.
+Para tal efecto las entidades a que hace referencia este artfculo, deberán realizar
+el pago a quien corresponda, de conformidad con la programación financiera
+remitida al Ministerio de Finanzas Públicas, siendo Tesorería Nacional quien
+liquidará los pagos confbrme la programación de Caja. Su funcionamiento y
+aplicación se normará en el reglamento de l
+
+================================================================================
+DECREE_ARTICLE: 36
+HEADER: ARTÍCULO 36. Se reforma el artículo 61 ·del Decreto Número 101·97 del
+REPLACEMENT_PREVIEW:
+"Artículo 61. Ámbito Legal del Crédito Público. El crédito público se rige por las
+disposiciones contenidas en la Constitución Política de la República _de
+Guatemala, las de esta Ley, las normas reglamentarias y las demás disposiciones
+legales que autoricen operaciones específicas.
+Están sujetos a las disposiciones que rígen el crédito público todas las entidades
+estatales, incluyendo al Instituto de Fomento Municipal y las municipalidades que
+realicen operaciones de crédito interno o externo o cuando requieran del aval o
+garantíá del Estado.
+Se exceptúan de las disposiciones de esta Ley las operaciones que realice el
+Banco de Guatemala conforme a su Ley Orgánica para garantizar la estabilidad
+monetaria, cambiaría y crediticia.
+Los recursos provenientes del crédito público se destinarán a financiar:
+a. Inversiones productivas, de beneficio· social y de infraestructura;
+b. Casos de evidente necesidad nacional, aprobados por el voto favorable
+de las dOS terceras partes del total de diputados que integran e~
+Congreso de la República;
+c. Reorganización del Estado, cuando los requerimientos del proceso de
+reforma y modernización de la administración pública así lo requieran; y
+d. Pasivo
+
+================================================================================
+DECREE_ARTICLE: 37
+HEADER: ARTÍCULO 37. Se ádiciona· el artículo 61 Bis al Decreto Número 101·97 del
+REPLACEMENT_PREVIEW:
+· MArtículo 61 Bis. Renegoclación de Préstamos Externos. Se faculta aJ
+Organísmo Ejecutivo para que por conducto del Ministerio de Finanzas Públicas,
+especialmente en los casos de préstamo en que la unidad ejecutora esté en
+proceso de liquidación o cualquier otra forma de extinción, renegocie con Jos
+organismos, Estados y agencias financieras internacionales, el cambio d.e unidad
+ejecutora de tales préstamos, con el mismo fin o destino establecido por el
+Congreso de la República.
+/ /
+
+Se podrá modificar el destino ·únicamente para la solución de situ.aciones
+derivadas del estado de calamidad pública, por lo que deberá realizar las
+operaciones presupuestarias, contables y financieras necesarias para el
+cumplimiento de la presente disposición.
+En todos los casos el Ministerio de Finanzas Públicas enviará copia al Congreso
+de la República y a la Contraloría General de Cuentas, en un plazo no ma~or .~e
+quince (15) días, toda la documentación relacionada a cada
+renegoc1ac1on
+suscrita y formalizada con los organismos, estados y agencias financieras
+internacionales respectivas.
+Si transcurrido el plazo de dos (2) años en que un préstamo no reporte ejecución,
+el Organismo Ejecutivo, en un 
+
+================================================================================
+DECREE_ARTICLE: 38
+HEADER: ARTÍCULO 38. Se reforma el artículo 65 del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 65. Presupuesto de la Deuda Pública. Se incluirán en el Presupuesto
+General de Ingresos y Egresos del Estado de cada ejercicio fiscal, la estimación
+de los ingresos a obtener y egresos a realizar dentro del ejercicio fiscal
+correspondiente de:
+a) En el caso de los ingresos, los montos provenientes de operaciones de crédito
+público aprobadas por el Congreso de la República, incluyendo los
+desembolsos de los préstamos que cuenten con opinión del Organismo
+. Ejecutivo y la Junta Monetaria que permita prever su desembolso en el
+ejercicio fiscal que se está aprobando; y .
+b) En el caso de los egresos, los montos correspondientes al pago del principal,
+intereses, comisiones y otros cargos derivados de las operaciones de crédito
+público. De igual forma lo deberán hacer las entidades descentralizadas,
+autónomas y municipalidades, en sus respectivos presupuestos.
+Se exceptúa de lo dispuesto en el párrafo ante~ior:
+a) Los ingresos y los· egresos derivados de las colocaciones y pagos principales
+de las letras del tesoro colocados a plazos que, por su naturaleza, no deben
+exceder del cierre del ejercicio fiscal en el cual fueron emitidas; y
+b) Los ingresos derivados de las colocacion
+
+================================================================================
+DECREE_ARTICLE: 40
+HEADER: ARTÍCULO 40. Se reforma el artículo fil del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 67. Opiniones técnicas. En los casos de las operaciones de crédito
+público, antes de formalizarse el acto respectivo y cualquiera que sea el ente del
+sector público emisor o contratante, deberán emitir opinión el Organismo
+Ejecutivo por conducto del Ministerio de Finanzas Públicas, la Secretaría de
+Planificación y Programación· de la Presidencia y la Junta Monetaria en sus
+respectivas áreas de competencia."
+
+================================================================================
+DECREE_ARTICLE: 41
+HEADER: ARTICULO 41. Se reforma el artículo 68 del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+•Artículo 68. Condlclonalidad. Cumplidos los requisitos establecidos en este
+Titulo, los entes descentralizados y autónomos no financieros del Estado,
+incluyendo las municipalidades, podrán realizar operaciones de crédito público sin
+exceder su capacidad de pago y en el marco de la política de crédito público.
+En el caso de municipalidades la deuda no podrá exceder de la capacidad de
+endeudamiento ni podrá comprometer el situado constitucional para el pago de la
+misma, tomando en cuenta lo siguiente:
+a) Monto y perfil de la deuda ya contraída;
+b) Monto y perfil de las nuevas oblígaciones a contraer;
+c) Situación patrimonial de la entidad; y
+d) Estado de origen y aplicación de fondos reales y proyectados que garanticen el
+. período de duración y el monto del endeudamiento".
+
+================================================================================
+DECREE_ARTICLE: 42
+HEADER: ARTÍCULO 42. Se reforma el artículo 69 del Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+/.
+
+"Artículo 69. Operaciones de Gestión de Pasivos. Se autoriza al Ministerio de
+Finanzas Públicas para realizar operaciones de gestión de pasivos tanto en el
+mercado local ·como internacional, tales como recompras o canjes, remisión,
+conversión, consolidación o renegociación a efecto de mitigar los riesgos
+inherentes al portafolio de deuda y ·con el propósito de cumplir los objetivos
+establecidos en la política de crédito público.
+El Ministerio de Finanzas Públicas deberá cumplir con las obligaciones que se
+deriven de dichas operaciones financieras. Para la realización de las operaciones
+referidas en el presente artículo, el Ministerio de Finanzas Públicas queda
+autorizado para contratar directamente o por medio de un proceso de selección
+que se defina en el reglamento de la presente Ley, los s~rvicios y las entidades
+nacionales e internacionales, necesarias para llevar a buen término dichas
+operaciones. De dichas operaciones debe informar al Congreso de la República,
+a. la Contraloría General de Cuentas y al Banco de Guatemala.
+Los contratos que se suscriban son inherentes a tales operaciones, se regirán por
+la legislación del lugar en que se efectúen, de conformidad con Jas prá
+
+================================================================================
+DECREE_ARTICLE: 44
+HEADER: ARTÍCULO 44. Se adiciona el artículo 71 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 71 Bis. Documentación de Operaciones de Crédito Público en el
+Mercado Internacional. La documentación de operaciones de crédito público que
+se derive de las emisiones internacionales, incluyenc!O las que se encuentren en
+circulación, de préstamos externos y de las operaciones de gestión de pasivos
+realizadas en el mercado internacional, están exentas de los requisitos de
+documentos provenientes del extranjero. Estos documentos se rigen por normas
+especiales de orden interno o internacional, de acuerdo a la Ley del Organismo
+Judicial."
+
+================================================================================
+DECREE_ARTICLE: 46
+HEADER: ARTÍCULO 46. Se adiciona el artículo 74 Bis al Decreto Número 101-97 del
+REPLACEMENT_PREVIEW:
+"Artículo 74 Bis. Pago de Obligaciones Exigibles. Las entidades de la
+administración central y las entidades descentralizadas y autónomas, en los
+casos en que el Estado tenga que pagar indemnizaciones y prestaciones, así
+como otras obligaciones que sean exigibles por la vía ejecutiva, están obligadas a
+solventar ante la instancia correspondiente, con carácter urgente, el pago
+correspondiente con los créditos que sean aprobados en su respectivo
+presupuesto.
+En los casos en los que no se hubiere previsto el cumplimiento del pago de la
+obligación exigible, las entidades de la administración central y las entidades
+descentralizadas y autónomas, tienen la obligación de realizar todas las
+actividades y operaciones que· fueren necesarias para efectuar el pago en los
+plazos fijados por los órganos jurisdiccionales y hasta un máximo, de los dos (2)
+primeros meses del siguiente ejercicio fiscal.
+En ningún caso puede trabarse embargo, secuestro o intervenir en cualquier otra
+forma sobre las asignaciones que amparen partidas presupuestarias, efectivo,
+depósitos, valores y demás bienes muebles e inmuebles del Estado."
+
+================================================================================
+DECREE_ARTICLE: 47
+HEADER: ARTÍCULO 47. Se adiciona el artículo 80 Bis al Decreto Número 101·97 del
+REPLACEMENT_PREVIEW:
+"Artículo 80 Bis. Sanciones. El funcionario o empleado público que sin causa
+justificada incumpliere con las obligaciones contenidas en la presente Ley, será
+sancionado con una multa equivalente al cinco por ciento (5%) del monto de la
+asignación pendiente de programar.
+El funcionario o empleado público que adquiera compromisos o devengue gastos
+para los cuales no exístan saldos disponibles de créditos presupuestarios o
+disponga de IOs créditos para una fínalidad distinta a la prevista en los planes y
+programas establecidos. será sancionado con el pago del monto total .9~L
+compromiso o gasto que exceda del limite de los egresos o cuya finalidad haya
+sido alterada.
+La Contraloría General de Cuentas aplicará sanciones pecuniarias por
+infracciones administrativas, sin perjuicio de las responsabilidades penales o
+civiles, por montos desde cinco mil Quetzales (QS,000.00) hasta cien mil
+Quetzales (Q100,000.00) a los funcionarios o empleados públicos y demás
+personas sujetas a su control, que incurran en alguna violación de las
+disposiciones establecidas en !a presente Ley, considerando la gravedad por el
+perjuício que haya causado, debiéndose desarrollar y clasificar este aspecto en el
+r
+
+================================================================================
+DECREE_ARTICLE: 75
+HEADER: Articulo 75. Se reforma la literal g) del artículo 27 del Decreto Número 1-98 del
+REPLACEMENT_PREVIEW:
+"g)
+No cumplir las metas de recaudación tributaria establecidas en el convenio que
+se celebre anualmente entre el Organismo Ejecutivo y la SAT, para el efecto
+dichas metas se establecerán tomando en consideración:
+a) Las cifras de recaudación tributaria del año anterior;
+b) La situación de la economía;
+c) El Presupuesto de Ingresos aprobado por el Congreso de la
+República para el año correspondiente; y,
+d) Plan de recaudación, control y fiscalización.''
+LIBRO IV
+DISPOSICIONES TRANSITORIAS Y FINALES
+CAPITULO!
+Disposiciones Transitorias Del Libro l. Reformas al Decreto Número 101-97
+del Congreso de la República, Ley Orgánica el Presupuesto y sus Reformas

@@ -1,0 +1,139 @@
+---- sample-budget-law.txt ----
+article_headings: 103
+title_headings: 10
+chapter_headings: 4
+reform_notes: 57
+mojibake: 0
+examples:
+  article_headings:
+    - ARTICULO 1.- Objeto.
+    - ARTICULO 2.- Ámbito de aplicación.
+    - ARTICULO 3.- * Desconcentración de la administración financiera.
+    - ARTICULO 4.* Rendición de Cuentas.
+    - ARTICULO 5.- Comisión Técnica de Finanzas Públicas.
+  title_headings:
+    - TITULO I
+    - TITULO II
+    - TITULO I, Presupuesto de Ingresos
+    - TITULO II, Presupuesto de Egresos
+    - TITULO III, Disposiciones Generales
+  chapter_headings:
+    - CAPITULO I
+    - CAPITULO II
+    - CAPITULO III
+    - CAPITULO IV
+  reform_notes:
+    - *Reformado por el Artículo 1, del Decreto Número 13-2013 el 20-11-2013
+    - *Reformadas literales c) y d), y adicionadas e), f) y g), por el Artículo 2, del Decreto Número 13-2013 el
+    - *Reformado el segundo párrafo por el Artículo 3, del Decreto Número 13-2013 el 20-11-2013
+    - *Reformado por el Artículo 4, del Decreto Número 13-2013 el 20-11-2013
+    - *Adicionado por el Artículo 5, del Decreto Número 13-2013 el 20-11-2013
+
+---- sample-civic-service.txt ----
+article_headings: 54
+title_headings: 0
+chapter_headings: 8
+reform_notes: 0
+mojibake: 0
+examples:
+  article_headings:
+    - ARTICULO 1.
+    - ARTICULO 2.
+    - ARTICULO 3.
+    - ARTICULO 4.
+    - ARTICULO 5.
+  chapter_headings:
+    - CAPITULO I
+    - CAPITULO II
+    - CAPITULO III
+    - CAPITULO IV
+    - CAPITULO V
+
+---- sample-code-codigo-municipal.txt ----
+article_headings: 178
+title_headings: 8
+chapter_headings: 24
+reform_notes: 0
+mojibake: 0
+examples:
+  article_headings:
+    - ARTICULO  1.
+    - ARTICULO  2.
+    - ARTICULO  3.
+    - ARTICULO  4.
+    - ARTICULO  5.
+  title_headings:
+    - TITULO I
+    - TITULO II
+    - TITULO III
+    - TITULO IV
+    - TITULO V
+  chapter_headings:
+    - CAPITULO I
+    - CAPITULO II
+    - CAPITULO III
+    - CAPITULO I
+    - CAPITULO II
+
+---- sample-constitution.txt ----
+article_headings: 311
+title_headings: 16
+chapter_headings: 54
+reform_notes: 1
+mojibake: 0
+examples:
+  article_headings:
+    - Artículo 1º. Protección a la persona. El Estado de Guatemala se organiza para
+    - Artículo 2º. Deberes del Estado. Es deber del Estado garantizarle a los habitantes
+    - Artículo 3º. Derecho a la vida. El Estado garantiza y protege la vida humana desde
+    - Artículo 4º. Libertad e igualdad. En Guatemala todos los seres humanos son
+    - Artículo 5º. Libertad de acción. Toda persona tiene derecho a hacer lo que la
+  title_headings:
+    - TÍTULO I     La persona humana fines y deberes del Estado
+    - TÍTULO II    Derechos Humanos
+    - TITULO III   El Estado
+    - TÍTULO IV   Poder Público
+    - TÍTULO V    Estructura y Organización del Estado
+  chapter_headings:
+    - Capítulo  Único...................................................................................................1
+    - Capítulo I     Derechos Individuales....................................................................1
+    - Capítulo II    Derechos Sociales.........................................................................10
+    - Capítulo III  Deberes y derechos cívicos y políticos..........................................31
+    - Capítulo IV  Limitación a los derechos constitucionales..................................32
+  reform_notes:
+    - Artículo 256. (DEROGADO POR ARTÍCULO 36, REFORMAS CONSTITUCIONALES).
+
+---- sample-ordinary-law-laip.txt ----
+article_headings: 72
+title_headings: 5
+chapter_headings: 13
+reform_notes: 0
+mojibake: 0
+examples:
+  article_headings:
+    - ARTICULO 1. Objeto de la Ley.
+    - ARTICULO 2. Naturaleza.
+    - ARTICULO 3. Principios.
+    - ARTICULO 4. Ámbito de aplicación.
+    - ARTICULO 5. Sujeto activo.
+  title_headings:
+    - TÍTULO PRIMERO
+    - TÍTULO SEGUNDO
+    - TÍTULO TERCERO
+    - TÍTULO CUARTO
+    - TÍTULO QUINTO
+  chapter_headings:
+    - CAPÍTULO PRIMERO
+    - CAPÍTULO SEGUNDO
+    - CAPÍTULO TERCERO
+    - CAPÍTULO CUARTO
+    - CAPÍTULO QUINTO
+
+---- structure-diagnosis.txt ----
+article_headings: 0
+title_headings: 0
+chapter_headings: 0
+reform_notes: 0
+mojibake: 0
+examples:
+
