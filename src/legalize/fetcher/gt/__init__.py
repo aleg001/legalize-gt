@@ -22,6 +22,15 @@ from legalize.fetcher.gt.renderer import (
     title_from_identifier,
     yaml_quote,
 )
+from legalize.fetcher.gt.metadata import (
+    FIXTURE_METADATA,
+    GTMetadata,
+    metadata_for_fixture,
+    metadata_for_identifier,
+    metadata_to_dict,
+    sha256_file,
+)
+
 
 __all__ = [
     "ParsedBlock",
@@ -42,4 +51,10 @@ __all__ = [
     "render_reform_note",
     "title_from_identifier",
     "yaml_quote",
+    "FIXTURE_METADATA",
+    "GTMetadata",
+    "metadata_for_fixture",
+    "metadata_for_identifier",
+    "metadata_to_dict",
+    "sha256_file",
 ]
