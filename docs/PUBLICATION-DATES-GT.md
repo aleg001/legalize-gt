@@ -8,7 +8,7 @@ This document tracks publication-date and effective-date research for Guatemala 
 
 | Identifier | Decree | Date candidate | Date type | Source | Confidence | Notes |
 |---|---|---:|---|---|---|---|
-| `decreto-13-2013` | 13-2013 | `2013-11-20` | `reform_note_date` | Consolidated Decreto 101-97 reform notes | medium | Priority for version-history spike. Still needs confirmation against official DCA publication page or decree PDF header. |
+| `decreto-13-2013` | 13-2013 | `2013-11-12` | `publication_date` | DCA header inside official PDF extraction | high | The extracted official PDF repeatedly shows `Guatemala, MARTES 12 de noviembre 2013` and `DIARIO de CENTRO AMÉRICA`. |
 | `decreto-57-2008` | 57-2008 | pending | `publication_date` | pending | pending | LAIP. Need DCA publication evidence. |
 | `decreto-101-97` | 101-97 | `1997-11-20` | `publication_date_candidate` | Congreso PDF / DCA header in PDF | medium | PDF text/search result indicates `DIARIO DE CENTRO AMERICA, Noviembre 20 de 1997`. Needs manual confirmation from local fixture or PDF header. |
 | `decreto-12-2002` | 12-2002 | `2002-05-13` | `publication_date_candidate` | Congreso PDF / DCA header in PDF | medium | PDF text/search result indicates `DIARIO DE CENTRO AMERICA, 13 de mayo de 2002`. Needs manual confirmation from local fixture or PDF header. |
@@ -80,11 +80,12 @@ Confirm this date from the local extracted text or from the PDF header/page imag
 
 ### Decreto 13-2013
 
-Candidate:
+### Decreto 13-2013
+
+Publication date:
 
 ```text
-2013-11-20
-```
+2013-11-12
 
 Evidence:
 
