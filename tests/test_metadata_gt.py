@@ -10,6 +10,8 @@ from legalize.fetcher.gt.metadata import (
     sha256_file,
 )
 
+from legalize.fetcher.gt.metadata import SOURCES_YAML, load_fixture_metadata
+
 
 FIXTURE_DIR = Path("engine/tests/fixtures/gt")
 
@@ -80,3 +82,10 @@ def test_unknown_fixture_raises_key_error():
 def test_unknown_identifier_raises_key_error():
     with pytest.raises(KeyError):
         metadata_for_identifier("does-not-exist")
+
+
+def test_sources_yaml_loads():
+    data = load_fixture_metadata(SOURCES_YAML)
+
+    assert "sample-ordinary-law-laip-official" in data
+    assert data["sample-ordinary-law-laip-official"]["identifier"] == "decreto-57-2008"

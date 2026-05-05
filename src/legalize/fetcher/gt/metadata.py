@@ -4,8 +4,11 @@ from dataclasses import asdict, dataclass
 from pathlib import Path
 import hashlib
 
+import yaml
+
 
 FIXTURE_DIR = Path("engine/tests/fixtures/gt")
+SOURCES_YAML = Path("data/gt/sources.yaml")
 
 
 @dataclass(frozen=True)
@@ -28,93 +31,20 @@ class GTMetadata:
     parser_version: str = "gt-structural-0.1.0"
 
 
-FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
-    "sample-budget-law": {
-        "identifier": "decreto-101-97",
-        "title": "Ley Orgánica del Presupuesto",
-        "short_title": "Ley Orgánica del Presupuesto",
-        "rank": "decreto",
-        "decree_number": "101-97",
-        "source_type": "official_primary",
-        "source_pdf": "sample-budget-law.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/1997/gtdcx101-1997.pdf",
-        "publication_date": None,
-        "issuing_body": "Congreso de la República de Guatemala",
-        "extraction_method": "pymupdf",
-        "confidence": "medium",
-    },
-    "sample-civic-service": {
-        "identifier": "decreto-20-2003",
-        "title": "Ley del Servicio Cívico",
-        "short_title": "Ley del Servicio Cívico",
-        "rank": "decreto",
-        "decree_number": "20-2003",
-        "source_type": "official_primary",
-        "source_pdf": "sample-civic-service.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2003/gtdcx20-2003.pdf",
-        "publication_date": None,
-        "issuing_body": "Congreso de la República de Guatemala",
-        "extraction_method": "pymupdf",
-        "confidence": "medium",
-    },
-    "sample-code-codigo-municipal": {
-        "identifier": "decreto-12-2002",
-        "title": "Código Municipal",
-        "short_title": "Código Municipal",
-        "rank": "codigo",
-        "decree_number": "12-2002",
-        "source_type": "official_primary",
-        "source_pdf": "sample-code-codigo-municipal.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2002/gtdcx12-2002.pdf",
-        "publication_date": None,
-        "issuing_body": "Congreso de la República de Guatemala",
-        "extraction_method": "pymupdf",
-        "confidence": "medium",
-    },
-    "sample-constitution": {
-        "identifier": "constitucion-politica-republica-guatemala",
-        "title": "Constitución Política de la República de Guatemala",
-        "short_title": "Constitución Política",
-        "rank": "constitution",
-        "decree_number": None,
-        "source_type": "official_primary",
-        "source_pdf": "sample-constitution.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/secciones/pdf/16e67-constitucion-politica-de-la-republica-de-guatemala.pdf",
-        "publication_date": "1985-05-31",
-        "issuing_body": "Asamblea Nacional Constituyente",
-        "extraction_method": "pymupdf",
-        "confidence": "medium",
-    },
-    "sample-ordinary-law-laip-official": {
-        "identifier": "decreto-57-2008",
-        "title": "Ley de Acceso a la Información Pública",
-        "short_title": "LAIP",
-        "rank": "decreto",
-        "decree_number": "57-2008",
-        "source_type": "official_primary",
-        "source_pdf": "sample-ordinary-law-laip-official.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/57-2008.pdf",
-        "publication_date": None,
-        "issuing_body": "Congreso de la República de Guatemala",
-        "extraction_method": "pymupdf",
-        "confidence": "high",
-    },
-    "reform-decree-13-2013": {
-        "identifier": "decreto-13-2013",
-        "title": "Reformas al Decreto 101-97, Ley Orgánica del Presupuesto",
-        "short_title": "Decreto 13-2013",
-        "rank": "reform_decree",
-        "decree_number": "13-2013",
-        "source_type": "official_primary",
-        "source_pdf": "reform-decree-13-2013.pdf",
-        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2013/13-2013.pdf",
-        "publication_date": None,
-        "issuing_body": "Congreso de la República de Guatemala",
-        "extraction_method": "pymupdf",
-        "confidence": "medium",
+def load_fixture_metadata(path: Path = SOURCES_YAML) -> dict[str, dict[str, str | None]]:
+    if not path.exists():
+        raise FileNotFoundError(f"GT sources YAML not found: {path}")
 
-    },
-}
+    with path.open("r", encoding="utf-8") as file:
+        data = yaml.safe_load(file) or {}
+
+    if not isinstance(data, dict):
+        raise ValueError(f"GT sources YAML must contain a mapping: {path}")
+
+    return data
+
+
+FIXTURE_METADATA: dict[str, dict[str, str | None]] = load_fixture_metadata()
 
 
 def sha256_file(path: Path) -> str:
