@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 import re
 
+from legalize.fetcher.gt.metadata import GTMetadata, metadata_to_dict
 from legalize.fetcher.gt.parser import ParsedBlock
 
 
@@ -27,6 +28,64 @@ def yaml_quote(value: str) -> str:
 
 def title_from_identifier(identifier: str) -> str:
     return identifier.replace("-", " ").title()
+
+
+def render_yaml_value(value: str | None) -> str:
+    if value is None:
+        return "null"
+
+    return yaml_quote(str(value))
+
+
+def render_frontmatter_from_metadata(metadata: GTMetadata) -> list[str]:
+    data = metadata_to_dict(metadata)
+
+    ordered_keys = [
+        "country",
+        "identifier",
+        "title",
+        "short_title",
+        "rank",
+        "decree_number",
+        "source_type",
+        "source_pdf",
+        "source_sha256",
+        "extraction_method",
+        "confidence",
+        "status",
+        "parser_version",
+    ]
+
+    lines = ["---"]
+
+    for key in ordered_keys:
+        lines.append(f"{key}: {render_yaml_value(data.get(key))}")
+
+    lines.append("---")
+    lines.append("")
+
+    return lines
+
+
+def render_frontmatter_minimal(
+    *,
+    identifier: str,
+    title: str,
+    status: str,
+    source_type: str,
+    parser_version: str,
+) -> list[str]:
+    return [
+        "---",
+        "country: gt",
+        f"identifier: {identifier}",
+        f"title: {yaml_quote(title)}",
+        f'status: "{status}"',
+        f'source_type: "{source_type}"',
+        f'parser_version: "{parser_version}"',
+        "---",
+        "",
+    ]
 
 
 def render_reform_note(title: str) -> str:
@@ -63,24 +122,34 @@ def render_block(block: ParsedBlock) -> str:
 def render_markdown(
     blocks: list[ParsedBlock],
     *,
-    identifier: str,
+    identifier: str | None = None,
     title: str | None = None,
+    metadata: GTMetadata | None = None,
     status: str = "parsed",
     source_type: str = "fixture",
     parser_version: str = "gt-structural-0.1.0",
 ) -> str:
-    document_title = title or title_from_identifier(identifier)
+    if metadata:
+        document_identifier = metadata.identifier
+        document_title = metadata.title
+        frontmatter = render_frontmatter_from_metadata(metadata)
+    else:
+        if identifier is None:
+            raise ValueError(
+                "identifier is required when metadata is not provided")
+
+        document_identifier = identifier
+        document_title = title or title_from_identifier(identifier)
+        frontmatter = render_frontmatter_minimal(
+            identifier=document_identifier,
+            title=document_title,
+            status=status,
+            source_type=source_type,
+            parser_version=parser_version,
+        )
 
     parts = [
-        "---",
-        "country: gt",
-        f"identifier: {identifier}",
-        f"title: {yaml_quote(document_title)}",
-        f'status: "{status}"',
-        f'source_type: "{source_type}"',
-        f'parser_version: "{parser_version}"',
-        "---",
-        "",
+        *frontmatter,
         f"# {document_title}",
         "",
     ]
@@ -111,9 +180,15 @@ def blocks_from_json(path: Path) -> list[ParsedBlock]:
     ]
 
 
-def render_json_file(json_path: Path, output_path: Path) -> None:
+def render_json_file(
+    json_path: Path,
+    output_path: Path,
+    *,
+    metadata: GTMetadata | None = None,
+) -> None:
     blocks = blocks_from_json(json_path)
-    markdown = render_markdown(blocks, identifier=json_path.stem)
+    markdown = render_markdown(
+        blocks, identifier=json_path.stem, metadata=metadata)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(markdown, encoding="utf-8")
