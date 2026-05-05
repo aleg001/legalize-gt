@@ -77,7 +77,7 @@ reform-decree-13-2013:
   source_type: official_primary
   source_pdf: reform-decree-13-2013.pdf
   source_url: https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2013/13-2013.pdf
-  publication_date: null
+  publication_date: "2013-11-12"
   issuing_body: Congreso de la República de Guatemala
   extraction_method: pymupdf
   confidence: medium

@@ -113,3 +113,10 @@ def test_all_sources_have_required_metadata_fields():
 def test_publication_date_key_exists_for_all_sources():
     for stem, raw in FIXTURE_METADATA.items():
         assert "publication_date" in raw, stem
+
+
+def test_decreto_13_2013_has_verified_publication_date():
+    meta = metadata_for_fixture("reform-decree-13-2013")
+
+    assert meta.identifier == "decreto-13-2013"
+    assert meta.publication_date == "2013-11-12"
