@@ -19,7 +19,7 @@ SOURCE_STEMS = {
     "sample-civic-service",
     "sample-code-codigo-municipal",
     "sample-constitution",
-    "sample-ordinary-law-laip",
+    "sample-ordinary-law-laip-official",
     "reform-decree-13-2013",
 }
 

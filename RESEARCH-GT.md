@@ -194,6 +194,14 @@ Action required:
 - Until replaced, mark this fixture as `source_type: institutional_or_third_party_compilation`.
 - Do not use this file for final quality-gate review.
 
+### LAIP fixture replacement
+
+The original `sample-ordinary-law-laip.pdf` was identified as a third-party/institutional compilation containing INFILE notices and access restrictions. It was replaced with:
+
+`sample-ordinary-law-laip-official.pdf`
+
+This official-source fixture should be used for parser validation and quality-gate review. The previous INFILE-based fixture, if retained, must be treated only as a stress-test document and excluded from official quality-gate evidence.
+
 ---
 
 ## 0.3 Metadata inventory
