@@ -54,6 +54,9 @@ def render_frontmatter_from_metadata(metadata: GTMetadata) -> list[str]:
         "confidence",
         "status",
         "parser_version",
+        "source_url",
+        "publication_date",
+        "issuing_body",
     ]
 
     lines = ["---"]

@@ -18,7 +18,10 @@ class GTMetadata:
     decree_number: str | None
     source_type: str
     source_pdf: str
+    source_url: str | None
     source_sha256: str
+    publication_date: str | None
+    issuing_body: str | None
     extraction_method: str
     confidence: str
     status: str = "parsed"
@@ -32,19 +35,25 @@ FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
         "short_title": "Ley Orgánica del Presupuesto",
         "rank": "decreto",
         "decree_number": "101-97",
-        "source_type": "official_or_institutional_compilation",
+        "source_type": "official_primary",
         "source_pdf": "sample-budget-law.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/1997/gtdcx101-1997.pdf",
+        "publication_date": None,
+        "issuing_body": "Congreso de la República de Guatemala",
         "extraction_method": "pymupdf",
         "confidence": "medium",
     },
     "sample-civic-service": {
-        "identifier": "sample-civic-service",
-        "title": "Ley de Servicio Cívico",
-        "short_title": "Ley de Servicio Cívico",
+        "identifier": "decreto-20-2003",
+        "title": "Ley del Servicio Cívico",
+        "short_title": "Ley del Servicio Cívico",
         "rank": "decreto",
-        "decree_number": None,
-        "source_type": "official_or_institutional_compilation",
+        "decree_number": "20-2003",
+        "source_type": "official_primary",
         "source_pdf": "sample-civic-service.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2003/gtdcx20-2003.pdf",
+        "publication_date": None,
+        "issuing_body": "Congreso de la República de Guatemala",
         "extraction_method": "pymupdf",
         "confidence": "medium",
     },
@@ -54,8 +63,11 @@ FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
         "short_title": "Código Municipal",
         "rank": "codigo",
         "decree_number": "12-2002",
-        "source_type": "official_or_institutional_compilation",
+        "source_type": "official_primary",
         "source_pdf": "sample-code-codigo-municipal.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2002/gtdcx12-2002.pdf",
+        "publication_date": None,
+        "issuing_body": "Congreso de la República de Guatemala",
         "extraction_method": "pymupdf",
         "confidence": "medium",
     },
@@ -65,8 +77,11 @@ FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
         "short_title": "Constitución Política",
         "rank": "constitution",
         "decree_number": None,
-        "source_type": "official_or_institutional_compilation",
+        "source_type": "official_primary",
         "source_pdf": "sample-constitution.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/secciones/pdf/16e67-constitucion-politica-de-la-republica-de-guatemala.pdf",
+        "publication_date": "1985-05-31",
+        "issuing_body": "Asamblea Nacional Constituyente",
         "extraction_method": "pymupdf",
         "confidence": "medium",
     },
@@ -78,6 +93,9 @@ FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
         "decree_number": "57-2008",
         "source_type": "official_primary",
         "source_pdf": "sample-ordinary-law-laip-official.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/57-2008.pdf",
+        "publication_date": None,
+        "issuing_body": "Congreso de la República de Guatemala",
         "extraction_method": "pymupdf",
         "confidence": "high",
     },
@@ -89,8 +107,12 @@ FIXTURE_METADATA: dict[str, dict[str, str | None]] = {
         "decree_number": "13-2013",
         "source_type": "official_primary",
         "source_pdf": "reform-decree-13-2013.pdf",
+        "source_url": "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2013/13-2013.pdf",
+        "publication_date": None,
+        "issuing_body": "Congreso de la República de Guatemala",
         "extraction_method": "pymupdf",
         "confidence": "medium",
+
     },
 }
 
@@ -130,7 +152,11 @@ def metadata_for_fixture(stem: str, fixture_dir: Path = FIXTURE_DIR) -> GTMetada
                           ) if raw["decree_number"] else None,
         source_type=str(raw["source_type"]),
         source_pdf=str(source_pdf),
+        source_url=str(raw["source_url"]) if raw["source_url"] else None,
         source_sha256=sha256_file(source_path),
+        publication_date=str(raw["publication_date"]
+                             ) if raw["publication_date"] else None,
+        issuing_body=str(raw["issuing_body"]) if raw["issuing_body"] else None,
         extraction_method=str(raw["extraction_method"]),
         confidence=str(raw["confidence"]),
     )

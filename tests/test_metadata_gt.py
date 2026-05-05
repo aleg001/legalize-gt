@@ -36,6 +36,8 @@ def test_metadata_for_official_laip():
     assert len(meta.source_sha256) == 64
     assert meta.extraction_method == "pymupdf"
     assert meta.confidence == "high"
+    assert meta.source_url == "https://www.congreso.gob.gt/assets/uploads/info_legislativo/decretos/2008/57-2008.pdf"
+    assert meta.issuing_body == "Congreso de la República de Guatemala"
 
 
 def test_metadata_for_budget_law():
