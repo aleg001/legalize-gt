@@ -38,6 +38,12 @@ from legalize.fetcher.gt.discovery import (
     get_fixture_document,
 )
 
+from legalize.fetcher.gt.builder import (
+    BuildResult,
+    build_all_fixture_documents,
+    build_document,
+)
+
 __all__ = [
     "ParsedBlock",
     "blocks_to_dicts",
@@ -67,4 +73,7 @@ __all__ = [
     "GTDocument",
     "discover_fixture_documents",
     "get_fixture_document",
+    "BuildResult",
+    "build_all_fixture_documents",
+    "build_document",
 ]

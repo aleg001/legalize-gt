@@ -1,0 +1,11 @@
+cat > .gitignore <<'EOF'
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+tmp/
+engine/tests/fixtures/.DS_Store
+src/**/__pycache__/
+tests/**/__pycache__/
+EOF
