@@ -31,6 +31,12 @@ from legalize.fetcher.gt.metadata import (
     sha256_file,
 )
 
+from legalize.fetcher.gt.client import GuatemalaFixtureClient
+from legalize.fetcher.gt.discovery import (
+    GTDocument,
+    discover_fixture_documents,
+    get_fixture_document,
+)
 
 __all__ = [
     "ParsedBlock",
@@ -57,4 +63,8 @@ __all__ = [
     "metadata_for_identifier",
     "metadata_to_dict",
     "sha256_file",
+    "GuatemalaFixtureClient",
+    "GTDocument",
+    "discover_fixture_documents",
+    "get_fixture_document",
 ]
