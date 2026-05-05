@@ -565,6 +565,27 @@ Additional cleanup note:
 
 The first page-artifact cleanup removed most DCA/Congreso headers and page numbers, but one OCR-like artifact remained: `NÚMER029`. A stricter line-level skip pattern is needed for malformed page headers such as `NÚMER029`, while preserving legitimate legal references such as `Decreto Número 101-97`.
 
+### Replacement cleanup result
+
+After adding stricter line-level cleanup patterns, malformed page artifacts such as `NÚMER029`, `DIARIO de CENTRO AMÉRICA`, and `Departamento de Información Legislativa` no longer appear in replacement-body output.
+
+The remaining `Número` matches are legitimate legal references, for example:
+
+- `Decreto Número 101-97`
+- `Número de beneficiarios`
+- `Número y fecha del convenio`
+
+Current replacement extraction result:
+
+| Metric | Value |
+|---|---:|
+| Replacement bodies extracted | 34 |
+| Page-artifact grep hits | 0 problematic hits |
+| Remaining `Número` hits | legitimate legal references |
+
+Conclusion:
+
+The replacement-body extraction is sufficiently clean for the version-history spike. Further cleanup should move into the production parser rather than continue as ad hoc research scripts.
 ---
 
 ## 0.6 Estimate total scope
