@@ -179,6 +179,21 @@ Notes:
 - If no table-heavy law is found in the first search, continue searching in tax, tariff, budget, procurement, municipal, or administrative fee regulations.
 - Do not proceed to quality gate without a table/annex sample unless the absence is explicitly documented.
 
+### Fixture source warning
+
+`sample-ordinary-law-laip.pdf` appears to come from INFILE, S.A. or an institutional/legal compilation rather than a clean official source PDF. The rendered Markdown contains repeated proprietary/access notices such as:
+
+- `Queda rigurosamente prohibida... INFILE, S.A.`
+- `El documento fue generado para el uso exclusivo de...`
+
+This fixture is useful for parser stress-testing, but should not be treated as an official primary source for Legalize bootstrap.
+
+Action required:
+
+- Replace `sample-ordinary-law-laip.pdf` with a clean official Congreso or Diario de Centro América source PDF.
+- Until replaced, mark this fixture as `source_type: institutional_or_third_party_compilation`.
+- Do not use this file for final quality-gate review.
+
 ---
 
 ## 0.3 Metadata inventory
@@ -586,6 +601,35 @@ Current replacement extraction result:
 Conclusion:
 
 The replacement-body extraction is sufficiently clean for the version-history spike. Further cleanup should move into the production parser rather than continue as ad hoc research scripts.
+
+### Preliminary structural parser result
+
+A first structural parser was tested with `scripts/parse_gt_pdf.py`.
+
+The parser reads PyMuPDF-extracted text from official PDF fixtures and emits preliminary JSON blocks with the following block types:
+
+- `preamble`
+- `title`
+- `chapter`
+- `section`
+- `article`
+- `reform_note`
+
+The parser was corrected to process only source texts extracted from PDF fixtures, excluding intermediate research artifacts such as `budget-reform-notes.txt`, `structure-diagnosis.txt`, `reform-operations-13-2013.txt`, and `replacement-bodies-13-2013.txt`.
+
+| Source text | Total blocks | Articles | Titles | Chapters | Sections | Reform notes |
+|---|---:|---:|---:|---:|---:|---:|
+| `reform-decree-13-2013.txt` | 86 | 83 | 0 | 2 | 0 | 0 |
+| `sample-budget-law.txt` | 178 | 103 | 10 | 4 | 5 | 55 |
+| `sample-civic-service.txt` | 68 | 54 | 0 | 8 | 5 | 0 |
+| `sample-code-codigo-municipal.txt` | 211 | 178 | 8 | 24 | 0 | 0 |
+| `sample-constitution.txt` | 376 | 311 | 16 | 29 | 19 | 0 |
+| `sample-ordinary-law-laip.txt` | 91 | 72 | 5 | 13 | 0 | 0 |
+
+Initial conclusion:
+
+The parser can detect legal structure across all selected Guatemala fixtures. Results are promising enough to proceed to Markdown rendering, but still require manual review for false positives, table-of-contents artifacts, duplicated article detections, and PDF extraction noise.
+
 ---
 
 ## 0.6 Estimate total scope
