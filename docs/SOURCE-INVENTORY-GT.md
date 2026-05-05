@@ -21,7 +21,7 @@ This document is a human-readable companion for reviewing source quality, source
 | `sample-code-codigo-municipal` | `decreto-12-2002` | Código Municipal | `official_primary` | `sample-code-codigo-municipal.pdf` | pending | Congreso de la República de Guatemala | medium |
 | `sample-constitution` | `constitucion-politica-republica-guatemala` | Constitución Política de la República de Guatemala | `official_primary` | `sample-constitution.pdf` | `1985-05-31` | Asamblea Nacional Constituyente | medium |
 | `sample-ordinary-law-laip-official` | `decreto-57-2008` | Ley de Acceso a la Información Pública | `official_primary` | `sample-ordinary-law-laip-official.pdf` | pending | Congreso de la República de Guatemala | high |
-| `reform-decree-13-2013` | `decreto-13-2013` | Reformas al Decreto 101-97, Ley Orgánica del Presupuesto | `official_primary` | `reform-decree-13-2013.pdf` | pending | Congreso de la República de Guatemala | medium |
+| `reform-decree-13-2013` | `decreto-13-2013` | Reformas al Decreto 101-97, Ley Orgánica del Presupuesto | `official_primary` | `reform-decree-13-2013.pdf` | `2013-11-12` | Congreso de la República de Guatemala | medium |
 
 ## Official source URLs
 
@@ -79,7 +79,6 @@ Pending dates:
 - `decreto-20-2003`
 - `decreto-12-2002`
 - `decreto-57-2008`
-- `decreto-13-2013`
 
 Required next step:
 
