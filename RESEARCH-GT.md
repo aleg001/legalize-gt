@@ -202,6 +202,22 @@ The original `sample-ordinary-law-laip.pdf` was identified as a third-party/inst
 
 This official-source fixture should be used for parser validation and quality-gate review. The previous INFILE-based fixture, if retained, must be treated only as a stress-test document and excluded from official quality-gate evidence.
 
+### Official LAIP fixture replacement
+
+The previous LAIP fixture was replaced with an official-source fixture:
+
+`sample-ordinary-law-laip-official.pdf`
+
+Extraction result:
+
+| Fixture | Pages | Extracted characters | Articles | Titles | Chapters | Mojibake hits |
+|---|---:|---:|---:|---:|---:|---:|
+| `sample-ordinary-law-laip-official.pdf` | 22 | 57,821 | 73 | 5 | 13 | 0 |
+
+The official LAIP fixture does not contain INFILE notices, access restrictions, or third-party page artifacts. It should replace the previous `sample-ordinary-law-laip.pdf` for quality-gate review.
+
+The previous LAIP fixture, if retained, must be treated only as a stress-test document and excluded from the official quality gate.
+
 ---
 
 ## 0.3 Metadata inventory
@@ -633,6 +649,7 @@ The parser was corrected to process only source texts extracted from PDF fixture
 | `sample-code-codigo-municipal.txt` | 211 | 178 | 8 | 24 | 0 | 0 |
 | `sample-constitution.txt` | 376 | 311 | 16 | 29 | 19 | 0 |
 | `sample-ordinary-law-laip.txt` | 91 | 72 | 5 | 13 | 0 | 0 |
+| `sample-ordinary-law-laip-official.txt` | 92 | 73 | 5 | 13 | 0 | 0 |
 
 Initial conclusion:
 

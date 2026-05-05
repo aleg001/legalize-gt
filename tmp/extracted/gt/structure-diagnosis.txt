@@ -1,17 +1,3 @@
----- budget-reform-notes.txt ----
-article_headings: 0
-title_headings: 0
-chapter_headings: 0
-reform_notes: 57
-mojibake: 0
-examples:
-  reform_notes:
-    - 58:*Reformado por el Artículo 1, del Decreto Número 13-2013 el 20-11-2013
-    - 78:*Reformadas literales c) y d), y adicionadas e), f) y g), por el Artículo 2, del Decreto Número 13-2013 el
-    - 94:*Reformado el segundo párrafo por el Artículo 3, del Decreto Número 13-2013 el 20-11-2013
-    - 114:*Reformado por el Artículo 4, del Decreto Número 13-2013 el 20-11-2013
-    - 149:*Adicionado por el Artículo 5, del Decreto Número 13-2013 el 20-11-2013
-
 ---- reform-decree-13-2013.txt ----
 article_headings: 83
 title_headings: 0
@@ -28,22 +14,6 @@ examples:
   chapter_headings:
     - CAPITULO 11
     - CAPITULO 111
-
----- reform-operations-13-2013.txt ----
-article_headings: 0
-title_headings: 0
-chapter_headings: 0
-reform_notes: 0
-mojibake: 0
-examples:
-
----- replacement-bodies-13-2013.txt ----
-article_headings: 0
-title_headings: 0
-chapter_headings: 0
-reform_notes: 0
-mojibake: 0
-examples:
 
 ---- sample-budget-law.txt ----
 article_headings: 103
@@ -175,38 +145,4 @@ examples:
     - CAPÍTULO TERCERO
     - CAPÍTULO CUARTO
     - CAPÍTULO QUINTO
-
----- sample-ordinary-law-laip.txt ----
-article_headings: 72
-title_headings: 5
-chapter_headings: 13
-reform_notes: 0
-mojibake: 0
-examples:
-  article_headings:
-    - ARTICULO 1. Objeto de la Ley.
-    - ARTICULO 2. Naturaleza.
-    - ARTICULO 3. Principios.
-    - ARTICULO 4. Ámbito de aplicación.
-    - ARTICULO 5. Sujeto activo.
-  title_headings:
-    - TÍTULO PRIMERO
-    - TÍTULO SEGUNDO
-    - TÍTULO TERCERO
-    - TÍTULO CUARTO
-    - TÍTULO QUINTO
-  chapter_headings:
-    - CAPÍTULO PRIMERO
-    - CAPÍTULO SEGUNDO
-    - CAPÍTULO TERCERO
-    - CAPÍTULO CUARTO
-    - CAPÍTULO QUINTO
-
----- structure-diagnosis.txt ----
-article_headings: 0
-title_headings: 0
-chapter_headings: 0
-reform_notes: 0
-mojibake: 0
-examples:
 
