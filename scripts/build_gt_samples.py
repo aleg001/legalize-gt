@@ -1,4 +1,5 @@
 from pathlib import Path
+import shutil
 
 from legalize.fetcher.gt.metadata import FIXTURE_METADATA, metadata_for_fixture
 from legalize.fetcher.gt.parser import parse_text_file, write_blocks_json
@@ -10,9 +11,15 @@ PARSED_DIR = Path("tmp/parsed/gt")
 RENDERED_DIR = Path("tmp/rendered/gt")
 
 
+def reset_output_dirs() -> None:
+    for directory in [PARSED_DIR, RENDERED_DIR]:
+        if directory.exists():
+            shutil.rmtree(directory)
+        directory.mkdir(parents=True, exist_ok=True)
+
+
 def main() -> None:
-    PARSED_DIR.mkdir(parents=True, exist_ok=True)
-    RENDERED_DIR.mkdir(parents=True, exist_ok=True)
+    reset_output_dirs()
 
     for fixture_name in sorted(FIXTURE_METADATA):
         txt_path = EXTRACTED_DIR / f"{fixture_name}.txt"
