@@ -89,3 +89,27 @@ def test_sources_yaml_loads():
 
     assert "sample-ordinary-law-laip-official" in data
     assert data["sample-ordinary-law-laip-official"]["identifier"] == "decreto-57-2008"
+
+
+def test_all_sources_have_required_metadata_fields():
+    required_fields = {
+        "identifier",
+        "title",
+        "short_title",
+        "rank",
+        "source_type",
+        "source_pdf",
+        "source_url",
+        "issuing_body",
+        "extraction_method",
+        "confidence",
+    }
+
+    for stem, raw in FIXTURE_METADATA.items():
+        missing = [field for field in required_fields if not raw.get(field)]
+        assert not missing, f"{stem} missing required fields: {missing}"
+
+
+def test_publication_date_key_exists_for_all_sources():
+    for stem, raw in FIXTURE_METADATA.items():
+        assert "publication_date" in raw, stem
